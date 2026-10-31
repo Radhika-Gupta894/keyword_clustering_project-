@@ -1,0 +1,95 @@
+== tfidf_agglomerative distance_threshold=0.2
+  cluster 2 (size 3): best cheap car insurance for low mileage | best car insurance for low mileage | cheap car insurance for low mileage
+  cluster 12 (size 2): what is the best car insurance | what is the best car insurance renewal
+  cluster 10 (size 2): best resistance band exercises for weight loss | resistance band exercises for weight loss
+  cluster 38 (size 2): customer database software for freelancers | best customer database software for freelancers
+  cluster 5 (size 2): running shoes for wide feet | best trail running shoes for wide feet
+  cluster 3 (size 2): cheap car insurance tips | car insurance tips
+
+== tfidf_agglomerative distance_threshold=0.3
+  cluster 6 (size 5): things to do in bali tips | what is the best things to do in bali | budget things to do in bali | cheap things to do in bali | things to do in bali review
+  cluster 96 (size 4): labradors positive reinforcement dog training | positive reinforcement dog training tips | positive reinforcement dog training review | cheap positive reinforcement dog training
+  cluster 19 (size 3): no equipment workout tips | cheap no equipment workout | no equipment workout review
+  cluster 25 (size 3): cheap car insurance tips | car insurance tips | comprehensive car insurance tips
+  cluster 30 (size 3): best cheap car insurance for low mileage | best car insurance for low mileage | cheap car insurance for low mileage
+  cluster 72 (size 3): top laptop with long battery life programming | laptop with long battery life review | cheap laptop with long battery life
+
+== tfidf_agglomerative distance_threshold=0.4
+  cluster 7 (size 8): things to do in bali tips | how to explore things to do in bali | what is the best things to do in bali | best things to do in bali for first timers | budget things to do in bali | monsoon season things to do in bali | cheap things to do in bali | things to do in bali review
+  cluster 31 (size 7): cheap house training a puppy | house training a puppy tips | house training a puppy for adult dogs | house training a puppy for aggressive dogs | best house training a puppy for puppies | house training a puppy for beginners | house training a puppy review
+  cluster 21 (size 5): cheap bali honeymoon packages | families bali honeymoon packages | december bali honeymoon packages | top bali honeymoon packages budget | bali honeymoon packages tips
+  cluster 101 (size 5): labradors positive reinforcement dog training | positive reinforcement dog training tips | positive reinforcement dog training review | what is the best positive reinforcement dog training | cheap positive reinforcement dog training
+  cluster 50 (size 4): 2026 technical seo checklist | technical seo checklist review | cheap technical seo checklist | technical seo checklist tips
+  cluster 23 (size 4): what is the best bali travel guide | what is the best bali itinerary | what is the best bali beaches | what is the best bali villas
+
+== tfidf_agglomerative distance_threshold=0.5
+  cluster 54 (size 9): customer database software for startups | customer database software for freelancers | customer database software review | best customer database software for email marketing | cheap customer database software | buy customer database software online | best customer database software for freelancers | what is the best customer database software
+  cluster 78 (size 9): cheap house training a puppy | house training a puppy tips | how to start house training a puppy | house training a puppy for adult dogs | house training a puppy for aggressive dogs | best house training a puppy for puppies | top house training a puppy at home | house training a puppy for beginners
+  cluster 14 (size 8): top budget notebook computer programming | best budget notebook computer for travel | budget notebook computer review | video editing budget notebook computer | budget notebook computer tips | buy budget notebook computer online | how to upgrade budget notebook computer | what is the best budget notebook computer
+  cluster 34 (size 8): things to do in bali tips | how to explore things to do in bali | what is the best things to do in bali | best things to do in bali for first timers | budget things to do in bali | monsoon season things to do in bali | cheap things to do in bali | things to do in bali review
+  cluster 114 (size 8): 2026 technical seo checklist | technical seo checklist review | technical seo checklist for startups | cheap technical seo checklist | technical seo checklist tips | buy technical seo checklist online | best technical seo checklist for 2026 | technical seo checklist for free
+  cluster 30 (size 7): top stop dog barking small breeds | top stop dog barking puppies | stop dog barking tips | top stop dog barking aggressive dogs | buy stop dog barking online | stop dog barking for puppies | what is the best stop dog barking
+
+== semantic min_cluster_size=5;min_samples=1
+  cluster 18 (size 58): how to pay off student credit card | top credit card online shopping | online shopipng student credit card | what is the best student credit card | what is the best credit card rewards | top business credit card beginners | online shopping student credit card | travel credit card review
+  cluster 17 (size 57): lightweight laptop for video editing | top budget notebook computer programming | what is the best student laptop | cheap business laptop | best budget notebook computer for travel | how to repair gaming laptop | student laptop tips | video editing gaming laptop
+  cluster 4 (size 57): how to cancel full coverage insurance | full coverage insurance for new cars | comprehensive car insurance for new cars | how to switch cheap car insurance | best auto insurance quotes for high risk drivers | what is the best car insurance | top auto insurance quotes young drivers | vehicle insurance policy tips
+  cluster 6 (size 53): best stability running shoes for rainy weather | buy running sohes online | running shoes for men | running shoes for wide feet | wide feet jogging sneakers | best trail running shoes for long distance | what is the best marathon shoes | what is the best jogging sneakers
+  cluster 11 (size 46): things to do in bali tips | bali villas for first timers | bali itinerary review | top bali travel guide couples | what is the best bali travel guide | cheap bali honeymoon packages | how to explore things to do in bali | bali travel guide for couples
+  cluster 2 (size 45): buy vegan breakfast online | top vegan dinner quick | top vegan recipes beginners | how to bake vegan dniner | top vegan recipes quick | vegan dessert tips | top vegan dinner budget | how to season vegan dessert
+
+== semantic min_cluster_size=5;min_samples=5
+  cluster 9 (size 60): cheap sales crm | cheap customer dataabse software | crm for small agency tips | customer database software for startups | customer database software for freelancers | how to integrate crm software | best cloud crm for startups | top crm for small agency ppieline management
+  cluster 1 (size 59): running | racing flats for rainy weather | best stability running shoes for rainy weather | buy running sohes online | running shoes for men | running shoes for wide feet | women racing flats | wide feet jogging sneakers
+  cluster 16 (size 58): how to pay off student credit card | top credit card online shopping | online shopipng student credit card | what is the best student credit card | what is the best credit card rewards | top business credit card beginners | online shopping student credit card | travel credit card review
+  cluster 2 (size 57): how to cancel full coverage insurance | full coverage insurance for new cars | comprehensive car insurance for new cars | how to switch cheap car insurance | best auto insurance quotes for high risk drivers | what is the best car insurance | top auto insurance quotes young drivers | vehicle insurance policy tips
+  cluster 15 (size 54): lightweight laptop for video editing | top budget notebook computer programming | what is the best student laptop | cheap business laptop | best budget notebook computer for travel | how to repair gaming laptop | student laptop tips | video editing gaming laptop
+  cluster 4 (size 52): cheap bodyweight exercises | back pain bodyweight exercises | back pain home workout | resistance band exercises review | best resistance band exercises for weight loss | no equipment workout tips | cheap dumbbell workout | best home gym setup for back pain
+
+== semantic min_cluster_size=10;min_samples=1
+  cluster 0 (size 61): buy tofu recipes online | buy vegan breakfast online | top vegan dinner quick | top tofu recipes high protein | top vegan recipes beginners | how to bake vegan dniner | top vegan recipes quick | vegan dessert tips
+  cluster 1 (size 59): running | racing flats for rainy weather | best stability running shoes for rainy weather | buy running sohes online | running shoes for men | running shoes for wide feet | women racing flats | wide feet jogging sneakers
+  cluster 11 (size 58): how to pay off student credit card | top credit card online shopping | online shopipng student credit card | what is the best student credit card | what is the best credit card rewards | top business credit card beginners | online shopping student credit card | travel credit card review
+  cluster 3 (size 58): cheap bodyweight exercises | back pain bodyweight exercises | back pain home workout | resistance band exercises review | top hiit routine women | best resistance band exercises for weight loss | no equipment workout tips | cheap dumbbell workout
+  cluster 4 (size 58): top stop dog barking small breeds | what is the best dog training | best crate training for rescue dogs | top leash training beginners | what is the best leash training | puppies leash traiinng | dog training for puppies | dog obedience classes review
+  cluster 10 (size 57): lightweight laptop for video editing | top budget notebook computer programming | what is the best student laptop | cheap business laptop | best budget notebook computer for travel | how to repair gaming laptop | student laptop tips | video editing gaming laptop
+
+== semantic min_cluster_size=10;min_samples=5
+  cluster 0 (size 61): buy tofu recipes online | buy vegan breakfast online | top vegan dinner quick | top tofu recipes high protein | top vegan recipes beginners | how to bake vegan dniner | top vegan recipes quick | vegan dessert tips
+  cluster 1 (size 59): running | racing flats for rainy weather | best stability running shoes for rainy weather | buy running sohes online | running shoes for men | running shoes for wide feet | women racing flats | wide feet jogging sneakers
+  cluster 9 (size 58): how to pay off student credit card | top credit card online shopping | online shopipng student credit card | what is the best student credit card | what is the best credit card rewards | top business credit card beginners | online shopping student credit card | travel credit card review
+  cluster 3 (size 58): cheap bodyweight exercises | back pain bodyweight exercises | back pain home workout | resistance band exercises review | top hiit routine women | best resistance band exercises for weight loss | no equipment workout tips | cheap dumbbell workout
+  cluster 4 (size 58): top stop dog barking small breeds | what is the best dog training | best crate training for rescue dogs | top leash training beginners | what is the best leash training | puppies leash traiinng | dog training for puppies | dog obedience classes review
+  cluster 2 (size 57): how to cancel full coverage insurance | full coverage insurance for new cars | comprehensive car insurance for new cars | how to switch cheap car insurance | best auto insurance quotes for high risk drivers | what is the best car insurance | top auto insurance quotes young drivers | vehicle insurance policy tips
+
+== semantic min_cluster_size=10;min_samples=10
+  cluster 0 (size 60): buy tofu recipes online | buy vegan breakfast online | top vegan dinner quick | top tofu recipes high protein | top vegan recipes beginners | how to bake vegan dniner | top vegan recipes quick | vegan dessert tips
+  cluster 2 (size 55): full coverage insurance for new cars | comprehensive car insurance for new cars | how to switch cheap car insurance | best auto insurance quotes for high risk drivers | what is the best car insurance | top auto insurance quotes young drivers | vehicle insurance policy tips | top vehicle insurance policy new cars
+  cluster 1 (size 53): best stability running shoes for rainy weather | buy running sohes online | running shoes for men | running shoes for wide feet | wide feet jogging sneakers | best trail running shoes for long distance | what is the best marathon shoes | what is the best jogging sneakers
+  cluster 3 (size 52): what is the best dog training | best crate training for rescue dogs | top leash training beginners | what is the best leash training | puppies leash traiinng | dog training for puppies | dog obedience classes review | at home crate training
+  cluster 7 (size 48): cheap sales crm | cheap customer dataabse software | crm for small agency tips | customer database software for startups | customer database software for freelancers | how to integrate crm software | how to choose customer database software | cheap lead tracking crm
+  cluster 10 (size 46): how to pay off student credit card | top credit card online shopping | online shopipng student credit card | what is the best student credit card | what is the best credit card rewards | top business credit card beginners | online shopping student credit card | travel credit card review
+
+== semantic min_cluster_size=20;min_samples=1
+  cluster 0 (size 61): buy tofu recipes online | buy vegan breakfast online | top vegan dinner quick | top tofu recipes high protein | top vegan recipes beginners | how to bake vegan dniner | top vegan recipes quick | vegan dessert tips
+  cluster 5 (size 61): cheap sales crm | cheap customer dataabse software | crm for small agency tips | customer database software for startups | customer database software for freelancers | how to integrate crm software | best cloud crm for startups | top crm for small agency ppieline management
+  cluster 1 (size 59): running | racing flats for rainy weather | best stability running shoes for rainy weather | buy running sohes online | running shoes for men | running shoes for wide feet | women racing flats | wide feet jogging sneakers
+  cluster 9 (size 58): how to pay off student credit card | top credit card online shopping | online shopipng student credit card | what is the best student credit card | what is the best credit card rewards | top business credit card beginners | online shopping student credit card | travel credit card review
+  cluster 3 (size 58): cheap bodyweight exercises | back pain bodyweight exercises | back pain home workout | resistance band exercises review | top hiit routine women | best resistance band exercises for weight loss | no equipment workout tips | cheap dumbbell workout
+  cluster 4 (size 58): top stop dog barking small breeds | what is the best dog training | best crate training for rescue dogs | top leash training beginners | what is the best leash training | puppies leash traiinng | dog training for puppies | dog obedience classes review
+
+== semantic min_cluster_size=20;min_samples=5
+  cluster 0 (size 61): buy tofu recipes online | buy vegan breakfast online | top vegan dinner quick | top tofu recipes high protein | top vegan recipes beginners | how to bake vegan dniner | top vegan recipes quick | vegan dessert tips
+  cluster 6 (size 60): cheap sales crm | cheap customer dataabse software | crm for small agency tips | customer database software for startups | customer database software for freelancers | how to integrate crm software | best cloud crm for startups | top crm for small agency ppieline management
+  cluster 1 (size 59): running | racing flats for rainy weather | best stability running shoes for rainy weather | buy running sohes online | running shoes for men | running shoes for wide feet | women racing flats | wide feet jogging sneakers
+  cluster 9 (size 58): how to pay off student credit card | top credit card online shopping | online shopipng student credit card | what is the best student credit card | what is the best credit card rewards | top business credit card beginners | online shopping student credit card | travel credit card review
+  cluster 3 (size 58): cheap bodyweight exercises | back pain bodyweight exercises | back pain home workout | resistance band exercises review | top hiit routine women | best resistance band exercises for weight loss | no equipment workout tips | cheap dumbbell workout
+  cluster 4 (size 58): top stop dog barking small breeds | what is the best dog training | best crate training for rescue dogs | top leash training beginners | what is the best leash training | puppies leash traiinng | dog training for puppies | dog obedience classes review
+
+== semantic min_cluster_size=20;min_samples=10
+  cluster 0 (size 60): buy tofu recipes online | buy vegan breakfast online | top vegan dinner quick | top tofu recipes high protein | top vegan recipes beginners | how to bake vegan dniner | top vegan recipes quick | vegan dessert tips
+  cluster 2 (size 55): full coverage insurance for new cars | comprehensive car insurance for new cars | how to switch cheap car insurance | best auto insurance quotes for high risk drivers | what is the best car insurance | top auto insurance quotes young drivers | vehicle insurance policy tips | top vehicle insurance policy new cars
+  cluster 1 (size 53): best stability running shoes for rainy weather | buy running sohes online | running shoes for men | running shoes for wide feet | wide feet jogging sneakers | best trail running shoes for long distance | what is the best marathon shoes | what is the best jogging sneakers
+  cluster 3 (size 52): what is the best dog training | best crate training for rescue dogs | top leash training beginners | what is the best leash training | puppies leash traiinng | dog training for puppies | dog obedience classes review | at home crate training
+  cluster 6 (size 48): cheap sales crm | cheap customer dataabse software | crm for small agency tips | customer database software for startups | customer database software for freelancers | how to integrate crm software | how to choose customer database software | cheap lead tracking crm
+  cluster 9 (size 46): how to pay off student credit card | top credit card online shopping | online shopipng student credit card | what is the best student credit card | what is the best credit card rewards | top business credit card beginners | online shopping student credit card | travel credit card review
