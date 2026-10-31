@@ -154,10 +154,9 @@ if run_button:
         if uploaded_file is None:
             st.error("Please upload a CSV file before running.")
             st.stop()
-        tfile = tempfile.NamedTemporaryFile(delete=False, suffix=".csv")
-        tfile.write(uploaded_file.getvalue())
-        tfile.flush()
-        temp_input_file = Path(tfile.name)
+        with tempfile.NamedTemporaryFile(delete=False, suffix=".csv") as tfile:
+            tfile.write(uploaded_file.getvalue())
+            temp_input_file = Path(tfile.name)
         active_input_path = temp_input_file
     else:
         active_input_path = DEFAULT_SAMPLE_CSV
@@ -250,7 +249,10 @@ if run_button:
         st.error(f"❌ Execution Failure: {e}")
     finally:
         if temp_input_file and temp_input_file.exists():
-            temp_input_file.unlink()
+            try:
+                temp_input_file.unlink(missing_ok=True)
+            except Exception:
+                pass
 
 
 # --- Display Dashboard Results ---
@@ -386,3 +388,4 @@ if results:
 
 else:
     st.info("👈 Select your dataset in the sidebar and click **'🚀 Run Clustering Pipeline'** to begin.")
+
