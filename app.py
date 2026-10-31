@@ -301,18 +301,18 @@ if results:
         if query:
             filtered_summary = filtered_summary[
                 filtered_summary["representative_keyword"].str.contains(query, case=False, na=False) |
-                filtered_summary["members"].str.contains(query, case=False, na=False)
+                filtered_summary["member_keywords"].str.contains(query, case=False, na=False)
             ]
 
         st.dataframe(
-            filtered_summary[["cluster_id", "cluster_size", "representative_keyword", "members"]],
+            filtered_summary[["cluster_id", "cluster_size_unique", "representative_keyword", "member_keywords"]],
             use_container_width=True,
             height=380
         )
 
         st.caption("Top 15 Largest Clusters:")
-        chart_data = filtered_summary.sort_values(by="cluster_size", ascending=False).head(15)
-        st.bar_chart(chart_data.set_index("representative_keyword")["cluster_size"])
+        chart_data = filtered_summary.sort_values(by="cluster_size_unique", ascending=False).head(15)
+        st.bar_chart(chart_data.set_index("representative_keyword")["cluster_size_unique"])
 
     with tab2:
         st.subheader("Keyword Assignments Table")
