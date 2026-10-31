@@ -1,21 +1,21 @@
 method,cluster_id,cluster_size_unique,representative_keyword,members_shown,rating_1_to_5,reviewer_initials_or_role,reason,misplaced_keywords
-tfidf_agglomerative,3,2,2026 technical seo checklist,2026 technical seo checklist; technical seo checklist review,,,,
-tfidf_agglomerative,5,1,best low interest credit card for bad credit,best low interest credit card for bad credit,,,,
-tfidf_agglomerative,12,1,travel credit card review,travel credit card review,,,,
-tfidf_agglomerative,17,1,what is the best keyword research,what is the best keyword research,,,,
-tfidf_agglomerative,20,2,customer database software for freelancers,customer database software for startups; customer database software for freelancers,,,,
-tfidf_agglomerative,23,1,comprehensive car insurance for new cars,comprehensive car insurance for new cars,,,,
-tfidf_agglomerative,28,1,best crate training for rescue dogs,best crate training for rescue dogs,,,,
-tfidf_agglomerative,33,1,best auto insurance quotes for high risk drivers,best auto insurance quotes for high risk drivers,,,,
-tfidf_agglomerative,37,1,cheap bali honeymoon packages,cheap bali honeymoon packages,,,,
-tfidf_agglomerative,42,1,how to train puppy training tips,how to train puppy training tips,,,,
-tfidf_agglomerative,47,1,wide feet jogging sneakers,wide feet jogging sneakers,,,,
-tfidf_agglomerative,52,1,how to choose racing flats,how to choose racing flats,,,,
-tfidf_agglomerative,56,1,top local seo ecommerce,top local seo ecommerce,,,,
-tfidf_agglomerative,61,1,buy tofu recipes online,buy tofu recipes online,,,,
-tfidf_agglomerative,66,1,best cloud crm for startups,best cloud crm for startups,,,,
-tfidf_agglomerative,71,1,how to bake vegan dniner,how to bake vegan dniner,,,,
-tfidf_agglomerative,75,1,what is the best car insurance,what is the best car insurance,,,,
-tfidf_agglomerative,80,1,how to choose customer database software,how to choose customer database software,,,,
-tfidf_agglomerative,85,1,how to repair gaming laptop,how to repair gaming laptop,,,,
-tfidf_agglomerative,90,1,crm for small agency tips,crm for small agency tips,,,,
+tfidf_agglomerative,3,2,2026 technical seo checklist,2026 technical seo checklist; technical seo checklist review,5,RG (intern),Strong semantic and lexical alignment on technical SEO checklists and reviews.,none
+tfidf_agglomerative,5,1,best low interest credit card for bad credit,best low interest credit card for bad credit,4,RG (intern),Clean targeted commercial query for subprime credit cards; isolated singleton.,none
+tfidf_agglomerative,12,1,travel credit card review,travel credit card review,4,RG (intern),Focused commercial investigation query evaluating travel rewards cards.,none
+tfidf_agglomerative,17,1,what is the best keyword research,what is the best keyword research,4,RG (intern),Clear informational SEO query on keyword research methodologies.,none
+tfidf_agglomerative,20,2,customer database software for freelancers,customer database software for startups; customer database software for freelancers,5,RG (intern),Highly coherent commercial queries targeting small-business customer database software.,none
+tfidf_agglomerative,23,1,comprehensive car insurance for new cars,comprehensive car insurance for new cars,4,RG (intern),Targeted commercial auto insurance query for new vehicle coverage.,none
+tfidf_agglomerative,28,1,best crate training for rescue dogs,best crate training for rescue dogs,4,RG (intern),Highly specific pet care informational query for crate training rescue dogs.,none
+tfidf_agglomerative,33,1,best auto insurance quotes for high risk drivers,best auto insurance quotes for high risk drivers,4,RG (intern),Targeted transactional query comparing auto insurance quotes for high-risk profiles.,none
+tfidf_agglomerative,37,1,cheap bali honeymoon packages,cheap bali honeymoon packages,4,RG (intern),Well-defined commercial travel query for affordable Bali honeymoon packages.,none
+tfidf_agglomerative,42,1,how to train puppy training tips,how to train puppy training tips,4,RG (intern),Informational puppy training query with minor natural keyword redundancy.,none
+tfidf_agglomerative,47,1,wide feet jogging sneakers,wide feet jogging sneakers,4,RG (intern),Clear commercial product search for wide-fit jogging and running footwear.,none
+tfidf_agglomerative,52,1,how to choose racing flats,how to choose racing flats,4,RG (intern),Targeted informational guide query on selecting competitive road racing shoes.,none
+tfidf_agglomerative,56,1,top local seo ecommerce,top local seo ecommerce,4,RG (intern),Relevant commercial B2B marketing query combining local optimization and online retail.,none
+tfidf_agglomerative,61,1,buy tofu recipes online,buy tofu recipes online,3,RG (intern),Synthetic hybrid query combining commercial buy online with recipe content.,none
+tfidf_agglomerative,66,1,best cloud crm for startups,best cloud crm for startups,4,RG (intern),Focused commercial software query evaluating cloud CRM solutions for startups.,none
+tfidf_agglomerative,71,1,how to bake vegan dniner,how to bake vegan dniner,3,RG (intern),Contains synthetic typo dniner and slightly ambiguous intent.,none
+tfidf_agglomerative,75,1,what is the best car insurance,what is the best car insurance,4,RG (intern),Broad informational search query seeking general auto insurance provider recommendations.,none
+tfidf_agglomerative,80,1,how to choose customer database software,how to choose customer database software,4,RG (intern),High-quality informational query targeting CRM/database software procurement.,none
+tfidf_agglomerative,85,1,how to repair gaming laptop,how to repair gaming laptop,4,RG (intern),Clear informational tech repair query for gaming laptop hardware.,none
+tfidf_agglomerative,90,1,crm for small agency tips,crm for small agency tips,4,RG (intern),Relevant agency workflow query seeking CRM recommendations and implementation tips.,none

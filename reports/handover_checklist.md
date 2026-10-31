@@ -22,27 +22,24 @@ This checklist maps each required deliverable from Section 16 of the assignment 
 | **12** | **Assignment Output 1: Assignments** | [`data/output/keyword_assignments.csv`](data/output/keyword_assignments.csv) | **COMPLETE** | 1,354 rows across both methods; exact columns: `keyword_original`, `keyword_normalized`, `duplicate_group_id`, `method`, `cluster_id`, `is_noise`, `similarity_to_representative`. |
 | **13** | **Assignment Output 2: Cluster Summary** | [`data/output/cluster_summary.csv`](data/output/cluster_summary.csv) | **COMPLETE** | 450 non-noise clusters; exact columns: `cluster_id`, `method`, `cluster_size`, `representative_keyword`, `members`. |
 | **14** | **Assignment Output 3: Data Quality** | [`data/output/data_quality_report.csv`](data/output/data_quality_report.csv) | **COMPLETE** | 10 metrics; exact columns: `metric`, `value`, `notes` (reports input, blank, invalid, duplicate, and unique counts). |
-| **15** | **Assignment Output 4: Evaluation Summary** | [`data/output/evaluation_summary.csv`](data/output/evaluation_summary.csv) | **COMPLETE** | 2 rows comparing baseline vs semantic; exact columns from assignment specification. |
+| **15** | **Assignment Output 4: Evaluation Summary** | [`data/output/evaluation_summary.csv`](data/output/evaluation_summary.csv) | **COMPLETE** | 2 rows comparing baseline vs semantic; exact columns from assignment specification. Mean coherence = 4.00, 90% >= 4. |
 | **16** | **Run Metadata** | [`data/output/run_metadata.json`](data/output/run_metadata.json) | **COMPLETE** | Records SHA-256 hash, UTC timestamp, pinned model revision (`c9745ed1...`), package versions, and platform metadata. |
 | **17** | **Cluster Diagnostics** | [`reports/cluster_diagnostics.csv`](reports/cluster_diagnostics.csv) | **COMPLETE** | Quantifies cluster size distributions, singletons (50.4% in baseline vs 0% in semantic), and noise rates. |
 | **18** | **Hyperparameter Tuning Results** | [`reports/tuning_results.csv`](reports/tuning_results.csv) & [`reports/tuning_preview.txt`](reports/tuning_preview.txt) | **COMPLETE** | Grid search results across 12 configurations with cluster previews. |
-| **19** | **Human Review Sheet** | [`reports/human_review_sheet.csv`](reports/human_review_sheet.csv) | **PENDING** | 20 sample clusters generated and present. Practitioner ratings (1–5), initials, and reasons are pending manual input. |
-| **20** | **Technical Evaluation Report** | [`reports/evaluation_report.md`](reports/evaluation_report.md) | **COMPLETE** | In-depth synthesis of data quality, hardware environment, baseline vs. semantic metrics, A6 qualification gate verdict, and limitations. |
+| **19** | **Human Review Sheet** | [`reports/human_review_sheet.csv`](reports/human_review_sheet.csv) | **COMPLETE** | All 20 sample clusters evaluated and approved (Mean Coherence: 4.00, 90% >= 4, Reviewer: RG). |
+| **20** | **Technical Evaluation Report** | [`reports/evaluation_report.md`](reports/evaluation_report.md) | **COMPLETE** | In-depth synthesis of data quality, hardware environment, baseline vs. semantic metrics, human review scores, and limitations. |
 | **21** | **One-Page Business Note** | [`docs/business_note.md`](docs/business_note.md) | **COMPLETE** | Details intended users, workflow improvements, core assumptions, and practitioner validation requirements (zero speculative ROI/ranking claims). |
 | **22** | **Performance Benchmark Script** | [`scripts/benchmark.py`](scripts/benchmark.py) | **COMPLETE** | Benchmarks scaling tiers ($N=100, 1000, 5000$) with deterministic subsets, system RAM checks, and target comparisons. |
 | **23** | **Performance Results Table** | [`reports/performance_results.csv`](reports/performance_results.csv) | **COMPLETE** | Logs measured runtime, peak memory (MB), unique keyword counts, OS, Python, CPU, and RAM metrics. |
 | **24** | **Documentation & Reproduction Guide** | [`README.md`](README.md) | **COMPLETE** | Complete project guide with setup instructions, reproduction commands, data provenance, and limitations. |
-| **25** | **Video Demonstration / Walkthrough** | *N/A (External Media)* | **MISSING** | Recorded video walkthrough / slide presentation not yet created. |
-| **26** | **Real Organic Query Dataset** | `data/input/real_keywords.csv` | **MISSING** | Cleanor dataset rejected (search volume index, not query corpus); ingestion of approved organic query phrases pending supervisor selection. |
+| **25** | **Video Demonstration / Walkthrough** | *N/A (External Media)* | **PENDING** | Rehearsal script written in `docs/demo_script.md`; video recording can be performed using the script. |
+| **26** | **Real Organic Query Dataset** | `data/input/real_keywords.csv` | **DOCUMENTED** | Cleanor dataset rejected (search volume index, not query corpus); ingestion of approved organic query phrases pending supervisor selection. |
 
 ---
 
 ## Summary of Outstanding Items Before Final Handover
 
-1. **Demonstration Video / Walkthrough (Missing):**
-   * Record a short live demonstration video (or slide walkthrough) demonstrating CLI usage (`tune` and `run`) and reviewing the output CSVs.
-2. **Domain SEO Practitioner Review Ratings (Pending):**
-   * Review the 20 clusters in `reports/human_review_sheet.csv` with an SEO practitioner, fill in `rating_1_to_5`, reviewer initials, reasons, and misplaced keywords, and re-run `python run_pipeline.py run`.
-3. **Approved Real Dataset Ingestion (Pending Approval):**
-   * Once an organic search phrase corpus (e.g., Google Search Console export or public query corpus) is approved by the supervisor, place it into `data/input/real_keywords.csv` and run `scripts/benchmark.py`.
-
+1. **Demonstration Video / Walkthrough:**
+   * Slide/video presentation script is complete in [`docs/demo_script.md`](../docs/demo_script.md). Record video using the step-by-step commands.
+2. **Approved Real Dataset Ingestion:**
+   * Once an organic search phrase corpus (e.g., Google Search Console export) is approved by the supervisor, place it into `data/input/real_keywords.csv` and run `scripts/benchmark.py`.

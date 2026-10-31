@@ -178,7 +178,9 @@ def select_method(eval_df: pd.DataFrame):
     d["mean_human_coherence"] = pd.to_numeric(d["mean_human_coherence"], errors="coerce")
     d["pct_clusters_rating_4_or_5"] = pd.to_numeric(d["pct_clusters_rating_4_or_5"], errors="coerce")
     if d["mean_human_coherence"].isna().all():
-        return None, "No human ratings yet - fill reports/human_review_sheet.csv and re-run."
+        return None, "No final selection yet - fill reports/human_review_sheet.csv and re-run."
+    if d["mean_human_coherence"].isna().any():
+        return None, "No final selection yet - human ratings are missing for one or more evaluated methods."
     elig = d[(d["mean_human_coherence"] >= config.ELIGIBLE_MEAN_COHERENCE) &
              (d["pct_clusters_rating_4_or_5"] >= config.ELIGIBLE_PCT_4_OR_5)]
     if elig.empty:
