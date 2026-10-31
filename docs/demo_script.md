@@ -126,3 +126,4 @@ python run_pipeline.py run --input data/synthetic/sample_keywords.csv --methods 
 > 3. **Non-Claims:** We make zero commercial claims regarding Google rankings, organic traffic, CTR, or speculative ROI.
 >
 > All required deliverables—including pinned requirements, performance benchmarks, and output CSVs—are fully tracked and documented. Thank you."
+
