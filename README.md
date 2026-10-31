@@ -1,4 +1,4 @@
-# AI-Powered Keyword Clustering Engine (VyorAI intern assignment)
+# AI-Powered Keyword Clustering Engine
 
 Groups SEO keywords into topic clusters with (1) a fixed lexical baseline (word TF-IDF + agglomerative
 clustering) and (2) a semantic method (`all-MiniLM-L6-v2` embeddings + HDBSCAN). Outputs are for **human
