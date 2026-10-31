@@ -1,0 +1,1355 @@
+keyword_original,keyword_normalized,duplicate_group_id,method,cluster_id,is_noise,similarity_to_representative
+lightweight laptop for video editing,lightweight laptop for video editing,0,tfidf_agglomerative,64,False,0.7858
+how to cancel full coverage insurance,how to cancel full coverage insurance,1,tfidf_agglomerative,416,False,1.0
+top budget notebook computer programming,top budget notebook computer programming,2,tfidf_agglomerative,336,False,1.0
+full coverage insurance for new cars,full coverage insurance for new cars,3,tfidf_agglomerative,29,False,1.0
+running,running,4,tfidf_agglomerative,337,False,1.0
+how to pay off student credit card,how to pay off student credit card,5,tfidf_agglomerative,108,False,1.0
+things to do in bali tips,things to do in bali tips,6,tfidf_agglomerative,7,False,1.0
+top credit card online shopping,top credit card online shopping,7,tfidf_agglomerative,184,False,1.0
+buy tofu recipes online,buy tofu recipes online,8,tfidf_agglomerative,229,False,1.0
+racing flats for rainy weather,racing flats for rainy weather,9,tfidf_agglomerative,347,False,1.0
+best stability running shoes for rainy weather,best stability running shoes for rainy weather,10,tfidf_agglomerative,349,False,1.0
+comprehensive car insurance for new cars,comprehensive car insurance for new cars,11,tfidf_agglomerative,29,False,0.6111
+how to switch cheap car insurance,how to switch cheap car insurance,12,tfidf_agglomerative,201,False,0.7081
+2026 technical seo checklist,2026 technical seo checklist,13,tfidf_agglomerative,50,False,0.6601
+what is the best student laptop,what is the best student laptop,14,tfidf_agglomerative,72,False,1.0
+cheap business laptop,cheap business laptop,15,tfidf_agglomerative,371,False,1.0
+cheap bodyweight exercises,cheap bodyweight exercises,16,tfidf_agglomerative,373,False,1.0
+buy vegan breakfast online,buy vegan breakfast online,17,tfidf_agglomerative,230,False,1.0
+back pain bodyweight exercises,back pain bodyweight exercises,18,tfidf_agglomerative,222,False,1.0
+bali villas for first timers,bali villas for first timers,19,tfidf_agglomerative,323,False,1.0
+java,java,20,tfidf_agglomerative,351,False,1.0
+top stop dog barking small breeds,top stop dog barking small breeds,21,tfidf_agglomerative,338,False,1.0
+best budget notebook computer for travel,best budget notebook computer for travel,22,tfidf_agglomerative,38,False,1.0
+bali itinerary review,bali itinerary review,23,tfidf_agglomerative,329,False,1.0
+top vegan dinner quick,top vegan dinner quick,24,tfidf_agglomerative,399,False,1.0
+back pain home workout,back pain home workout,25,tfidf_agglomerative,295,False,1.0
+online shopipng student credit card,online shopipng student credit card,26,tfidf_agglomerative,411,False,1.0
+top tofu recipes high protein,top tofu recipes high protein,27,tfidf_agglomerative,216,False,1.0
+cheap sales crm,cheap sales crm,28,tfidf_agglomerative,26,False,0.6047
+best auto insurance quotes for high risk drivers,best auto insurance quotes for high risk drivers,29,tfidf_agglomerative,327,False,1.0
+backlink building tips,backlink building tips,30,tfidf_agglomerative,406,False,1.0
+what is the best car insurance,what is the best car insurance,31,tfidf_agglomerative,100,False,1.0
+cheap customer dataabse software,cheap customer dataabse software,32,tfidf_agglomerative,359,False,1.0
+what is the best dog training,what is the best dog training,33,tfidf_agglomerative,43,False,0.6295
+top vegan recipes beginners,top vegan recipes beginners,34,tfidf_agglomerative,402,False,1.0
+crm for small agency tips,crm for small agency tips,35,tfidf_agglomerative,112,False,1.0
+resistance band exercises review,resistance band exercises review,36,tfidf_agglomerative,48,False,0.6934
+top hiit routine women,top hiit routine women,37,tfidf_agglomerative,52,False,0.6607
+buy running sohes online,buy running sohes online,38,tfidf_agglomerative,279,False,1.0
+top bali travel guide couples,top bali travel guide couples,39,tfidf_agglomerative,361,False,1.0
+best resistance band exercises for weight loss,best resistance band exercises for weight loss,40,tfidf_agglomerative,189,False,0.9255
+buy keyword research online,buy keyword research online,41,tfidf_agglomerative,299,False,1.0
+what is the best bali travel guide,what is the best bali travel guide,42,tfidf_agglomerative,23,False,0.6191
+how to bake vegan dniner,how to bake vegan dniner,43,tfidf_agglomerative,47,False,0.6955
+customer database software for startups,customer database software for startups,44,tfidf_agglomerative,54,False,0.6476
+customer database software for freelancers,customer database software for freelancers,45,tfidf_agglomerative,54,False,0.9087
+no equipment workout tips,no equipment workout tips,46,tfidf_agglomerative,79,False,1.0
+cheap bali honeymoon packages,cheap bali honeymoon packages,47,tfidf_agglomerative,21,False,1.0
+running shoes for men,running shoes for men,48,tfidf_agglomerative,61,False,1.0
+how to explore things to do in bali,how to explore things to do in bali,49,tfidf_agglomerative,7,False,0.6957
+cheap dumbbell workout,cheap dumbbell workout,50,tfidf_agglomerative,420,False,1.0
+best home gym setup for back pain,best home gym setup for back pain,51,tfidf_agglomerative,98,False,0.7176
+best crate training for rescue dogs,best crate training for rescue dogs,52,tfidf_agglomerative,20,False,0.707
+top auto insurance quotes young drivers,top auto insurance quotes young drivers,53,tfidf_agglomerative,317,False,1.0
+top vegan recipes quick,top vegan recipes quick,54,tfidf_agglomerative,401,False,1.0
+vegan dessert tips,vegan dessert tips,55,tfidf_agglomerative,374,False,1.0
+how to repair gaming laptop,how to repair gaming laptop,56,tfidf_agglomerative,367,False,1.0
+plant based meals for high protein,plant based meals for high protein,57,tfidf_agglomerative,269,False,1.0
+buy resistance band exercises online,buy resistance band exercises online,58,tfidf_agglomerative,380,False,1.0
+  how  to integrate crm software ,how to integrate crm software,59,tfidf_agglomerative,345,False,1.0
+top leash training beginners,top leash training beginners,60,tfidf_agglomerative,333,False,1.0
+buy student lpatop online,buy student lpatop online,61,tfidf_agglomerative,419,False,1.0
+what is the best ubud hotels,what is the best ubud hotels,62,tfidf_agglomerative,91,False,1.0
+what is the best leash training,what is the best leash training,63,tfidf_agglomerative,211,False,1.0
+top seo tools blogs,top seo tools blogs,64,tfidf_agglomerative,382,False,1.0
+what is the best student credit card,what is the best student credit card,65,tfidf_agglomerative,72,False,0.7328
+best cloud crm for startups,best cloud crm for startups,66,tfidf_agglomerative,238,False,1.0
+what is the best credit card rewards,what is the best credit card rewards,67,tfidf_agglomerative,217,False,1.0
+running shoes for wide feet,running shoes for wide feet,68,tfidf_agglomerative,102,False,1.0
+what is the best keyword research,what is the best keyword research,69,tfidf_agglomerative,27,False,1.0
+top business credit card beginners,top business credit card beginners,70,tfidf_agglomerative,282,False,1.0
+online shopping student credit card,online shopping student credit card,71,tfidf_agglomerative,332,False,1.0
+  vehicle  insurance policy tips ,vehicle insurance policy tips,72,tfidf_agglomerative,77,False,0.6565
+top vehicle insurance policy new cars,top vehicle insurance policy new cars,73,tfidf_agglomerative,366,False,1.0
+cheap car insurance tips,cheap car insurance tips,74,tfidf_agglomerative,105,False,0.8397
+technical seo checklist review,technical seo checklist review,75,tfidf_agglomerative,50,False,0.6909
+student laptop tips,student laptop tips,76,tfidf_agglomerative,356,False,1.0
+vehicle insurance policy review,vehicle insurance policy review,77,tfidf_agglomerative,77,False,1.0
+women racing flats,women racing flats,78,tfidf_agglomerative,200,False,1.0
+top vegan dinner budget,top vegan dinner budget,79,tfidf_agglomerative,3,False,0.6054
+wide feet jogging sneakers,wide feet jogging sneakers,80,tfidf_agglomerative,99,False,1.0
+top vehicle insurance policy families,top vehicle insurance policy families,81,tfidf_agglomerative,199,False,1.0
+video editing gaming laptop,video editing gaming laptop,82,tfidf_agglomerative,267,False,1.0
+bali travel guide for couples,bali travel guide for couples,83,tfidf_agglomerative,87,False,0.6746
+how to repair lightweight laptop,how to repair lightweight laptop,84,tfidf_agglomerative,274,False,1.0
+keyword research review,keyword research review,85,tfidf_agglomerative,353,False,1.0
+puppies leash traiinng,puppies leash traiinng,86,tfidf_agglomerative,418,False,1.0
+how to season vegan dessert,how to season vegan dessert,87,tfidf_agglomerative,343,False,1.0
+how to prepare vegan breakfast,how to prepare vegan breakfast,88,tfidf_agglomerative,334,False,1.0
+top comprehensive car insurance high risk drivers,top comprehensive car insurance high risk drivers,89,tfidf_agglomerative,303,False,1.0
+  student  laptop for video editing ,student laptop for video editing,90,tfidf_agglomerative,64,False,1.0
+bali villas for couples,bali villas for couples,91,tfidf_agglomerative,59,False,0.6158
+travel credit card review,travel credit card review,92,tfidf_agglomerative,65,False,1.0
+top crm for small agency ppieline management,top crm for small agency ppieline management,93,tfidf_agglomerative,68,False,1.0
+top local seo ecommerce,top local seo ecommerce,94,tfidf_agglomerative,325,False,1.0
+best lead tracking crm for startups,best lead tracking crm for startups,95,tfidf_agglomerative,94,False,1.0
+best trail running shoes for long distance,best trail running shoes for long distance,96,tfidf_agglomerative,95,False,1.0
+how to choose customer database software,how to choose customer database software,97,tfidf_agglomerative,328,False,1.0
+what is the best marathon shoes,what is the best marathon shoes,98,tfidf_agglomerative,235,False,1.0
+best low interest credit card for bad credit,best low interest credit card for bad credit,99,tfidf_agglomerative,164,False,0.7173
+top bali beaches december,top bali beaches december,100,tfidf_agglomerative,220,False,1.0
+how to book bali itinerary,how to book bali itinerary,101,tfidf_agglomerative,273,False,1.0
+DOG TRAINING FOR PUPPIES,dog training for puppies,102,tfidf_agglomerative,408,False,1.0
+cheap lead tracking crm,cheap lead tracking crm,103,tfidf_agglomerative,16,False,1.0
+what is the best liability insurance for cars,what is the best liability insurance for cars,104,tfidf_agglomerative,28,False,0.642
+beginners cashback credit card,beginners cashback credit card,105,tfidf_agglomerative,242,False,0.6425
+how to choose racing flats,how to choose racing flats,106,tfidf_agglomerative,301,False,1.0
+cashback credit card review,cashback credit card review,107,tfidf_agglomerative,242,False,0.6924
+top comprehensive car insurance young drivers,top comprehensive car insurance young drivers,108,tfidf_agglomerative,257,False,1.0
+what is the best home workout,what is the best home workout,109,tfidf_agglomerative,294,False,1.0
+what is the best jogging sneakers,what is the best jogging sneakers,110,tfidf_agglomerative,249,False,1.0
+coding ultrabook,coding ultrabook,111,tfidf_agglomerative,245,False,1.0
+surfing bali travel guide,surfing bali travel guide,112,tfidf_agglomerative,49,False,0.6492
+top ubud hotels surfing,top ubud hotels surfing,113,tfidf_agglomerative,12,False,1.0
+top hiit routine beginners,top hiit routine beginners,114,tfidf_agglomerative,52,False,1.0
+under 50000 rupees gaming laptop,under 50000 rupees gaming laptop,115,tfidf_agglomerative,19,False,1.0
+dog obedience classes review,dog obedience classes review,116,tfidf_agglomerative,78,False,0.7045
+bali travel guide for december,bali travel guide for december,117,tfidf_agglomerative,87,False,1.0
+top yoga at home abs,top yoga at home abs,118,tfidf_agglomerative,15,False,0.7002
+backlink building review,backlink building review,119,tfidf_agglomerative,297,False,1.0
+what is the best bali itinerary,what is the best bali itinerary,120,tfidf_agglomerative,23,False,1.0
+how to cook vegan dinner,how to cook vegan dinner,121,tfidf_agglomerative,281,False,1.0
+how to warm up for resistance band exercises,how to warm up for resistance band exercises,122,tfidf_agglomerative,398,False,1.0
+best cheap car insurance for low mileage,best cheap car insurance for low mileage,123,tfidf_agglomerative,126,False,0.9145
+top business laptop office work,top business laptop office work,124,tfidf_agglomerative,58,False,0.6513
+best ubud hotels for first timres,best ubud hotels for first timres,125,tfidf_agglomerative,74,False,1.0
+top auto insurance quotes classic cars,top auto insurance quotes classic cars,126,tfidf_agglomerative,18,False,1.0
+top backlink building 2026,top backlink building 2026,127,tfidf_agglomerative,17,False,1.0
+cheap bali travel guide,cheap bali travel guide,128,tfidf_agglomerative,49,False,1.0
+buy lead tracking crm online,buy lead tracking crm online,129,tfidf_agglomerative,16,False,0.6122
+top veagn dessert weeknight,top veagn dessert weeknight,130,tfidf_agglomerative,300,False,1.0
+tofu recipes tips,tofu recipes tips,131,tfidf_agglomerative,314,False,1.0
+customer database software review,customer database software review,132,tfidf_agglomerative,53,False,1.0
+cheap best credit card,cheap best credit card,133,tfidf_agglomerative,391,False,1.0
+student credit card for beginners,student credit card for beginners,134,tfidf_agglomerative,163,False,1.0
+what is the best home gym setup,what is the best home gym setup,135,tfidf_agglomerative,98,False,0.6826
+what is the best things to do in bali,what is the best things to do in bali,136,tfidf_agglomerative,7,False,0.7124
+bali itinerary tips,bali itinerary tips,137,tfidf_agglomerative,310,False,1.0
+2026 baclkink building,2026 baclkink building,138,tfidf_agglomerative,335,False,1.0
+how to cancel cashback credit card,how to cancel cashback credit card,139,tfidf_agglomerative,247,False,1.0
+how to integrate customer database software,how to integrate customer database software,140,tfidf_agglomerative,286,False,1.0
+at home crate training,at home crate training,141,tfidf_agglomerative,341,False,1.0
+real estate crm tool,real estate crm tool,142,tfidf_agglomerative,280,False,1.0
+buy laptop online,buy laptop online,143,tfidf_agglomerative,309,False,1.0
+small business keyword research,small business keyword research,144,tfidf_agglomerative,115,False,0.7416
+cheap seo tools,cheap seo tools,145,tfidf_agglomerative,312,False,1.0
+30 minutes no equipment workout,30 minutes no equipment workout,146,tfidf_agglomerative,71,False,0.7194
+how to train puppy training tips,how to train puppy training tips,147,tfidf_agglomerative,266,False,1.0
+technical seo checklist for startups,technical seo checklist for startups,148,tfidf_agglomerative,113,False,1.0
+what is the best ubud htoels,what is the best ubud htoels,149,tfidf_agglomerative,91,False,0.6632
+leash training tips,leash training tips,150,tfidf_agglomerative,386,False,1.0
+top laptop with long battery life programming,top laptop with long battery life programming,151,tfidf_agglomerative,66,False,0.7535
+labradors positive reinforcement dog training,labradors positive reinforcement dog training,152,tfidf_agglomerative,101,False,0.7442
+cheap sales crm,cheap sales crm,28,tfidf_agglomerative,26,False,0.6047
+crate training for aggressive dogs,crate training for aggressive dogs,153,tfidf_agglomerative,355,False,1.0
+cheap auto insurance quotes,cheap auto insurance quotes,154,tfidf_agglomerative,209,False,1.0
+beginners leash training,beginners leash training,155,tfidf_agglomerative,268,False,1.0
+home gym setup tips,home gym setup tips,156,tfidf_agglomerative,196,False,0.7141
+bodyweight exercises review,bodyweight exercises review,157,tfidf_agglomerative,396,False,1.0
+how to book ubud hotels,how to book ubud hotels,158,tfidf_agglomerative,237,False,1.0
+dog training for puppies,dog training for puppies,102,tfidf_agglomerative,408,False,1.0
+best business credit card for bad credit,best business credit card for bad credit,159,tfidf_agglomerative,413,False,1.0
+cheap house training a puppy,cheap house training a puppy,160,tfidf_agglomerative,31,False,0.7013
+how to size jogging sneakers,how to size jogging sneakers,161,tfidf_agglomerative,248,False,1.0
+buy local seo online,buy local seo online,162,tfidf_agglomerative,263,False,1.0
+  positive  reinforcement dog training tips ,positive reinforcement dog training tips,163,tfidf_agglomerative,101,False,1.0
+families bali honeymoon packages,families bali honeymoon packages,164,tfidf_agglomerative,21,False,0.684
+cheap car insurance review,cheap car insurance review,165,tfidf_agglomerative,81,False,1.0
+top lightweight laptop college,top lightweight laptop college,166,tfidf_agglomerative,5,False,1.0
+backlink building for startups,backlink building for startups,167,tfidf_agglomerative,10,False,1.0
+top content marketing strategy agencies,top content marketing strategy agencies,168,tfidf_agglomerative,8,False,0.6303
+top vegan meal prep one pot,top vegan meal prep one pot,169,tfidf_agglomerative,39,False,1.0
+sales crm review,sales crm review,170,tfidf_agglomerative,26,False,0.6262
+BEST RESISTANCE BAND EXERCISES FOR BACK PAIN,best resistance band exercises for back pain,171,tfidf_agglomerative,271,False,1.0
+DOG OBEDIENCE CLASSES TIPS,dog obedience classes tips,172,tfidf_agglomerative,78,False,1.0
+best crm tool for freelancers,best crm tool for freelancers,173,tfidf_agglomerative,37,False,1.0
+insurance,insurance,174,tfidf_agglomerative,219,False,1.0
+top lightweight laptop streaming,top lightweight laptop streaming,175,tfidf_agglomerative,246,False,1.0
+top student laptop coding,top student laptop coding,176,tfidf_agglomerative,302,False,1.0
+python,python,177,tfidf_agglomerative,255,False,1.0
+house training a puppy tips,house training a puppy tips,178,tfidf_agglomerative,31,False,0.7022
+top vegan dinner beginners,top vegan dinner beginners,179,tfidf_agglomerative,3,False,1.0
+buy auto insurance quotes online,buy auto insurance quotes online,180,tfidf_agglomerative,278,False,1.0
+top crm for small agency pipeline management,top crm for small agency pipeline management,181,tfidf_agglomerative,68,False,0.6357
+buy crate training online,buy crate training online,182,tfidf_agglomerative,362,False,1.0
+best dog training for puppies,best dog training for puppies,183,tfidf_agglomerative,408,False,0.8967
+best credit card review,best credit card review,184,tfidf_agglomerative,117,False,1.0
+best credit card for students,best credit card for students,185,tfidf_agglomerative,144,False,0.8908
+december bali honeymoon packages,december bali honeymoon packages,186,tfidf_agglomerative,21,False,0.6882
+top carbon plate shoes plantar fasciitis,top carbon plate shoes plantar fasciitis,187,tfidf_agglomerative,357,False,1.0
+best low interest credit card for students,best low interest credit card for students,188,tfidf_agglomerative,164,False,1.0
+puppies leash training,puppies leash training,189,tfidf_agglomerative,233,False,1.0
+how to apply for best credit card,how to apply for best credit card,190,tfidf_agglomerative,350,False,1.0
+how to correct stop dog barking,how to correct stop dog barking,191,tfidf_agglomerative,264,False,1.0
+  crm  software tips ,crm software tips,192,tfidf_agglomerative,326,False,1.0
+buy jogging sneakers online,buy jogging sneakers online,193,tfidf_agglomerative,352,False,1.0
+top best credit card online shopping,top best credit card online shopping,194,tfidf_agglomerative,184,False,0.7113
+dog training for small breeds,dog training for small breeds,195,tfidf_agglomerative,122,False,1.0
+how to plan bali travel guide,how to plan bali travel guide,196,tfidf_agglomerative,276,False,1.0
+vegan breakfast tips,vegan breakfast tips,197,tfidf_agglomerative,381,False,1.0
+how to measure on page seo,how to measure on page seo,198,tfidf_agglomerative,324,False,1.0
+how to size marathon shoes,how to size marathon shoes,199,tfidf_agglomerative,180,False,1.0
+credit card rewards review,credit card rewards review,200,tfidf_agglomerative,2,False,0.6013
+resistance band exercises for weight loss,resistance band exercises for weight loss,201,tfidf_agglomerative,189,False,1.0
+best customer database software for email marketing,best customer database software for email marketing,202,tfidf_agglomerative,54,False,0.6743
+what is the best car insurance renewal,what is the best car insurance renewal,203,tfidf_agglomerative,100,False,0.8542
+buy cashback credit card online,buy cashback credit card online,204,tfidf_agglomerative,369,False,1.0
+how to start house training a puppy,how to start house training a puppy,205,tfidf_agglomerative,383,False,1.0
+free crm for real estate,free crm for real estate,206,tfidf_agglomerative,111,False,0.7099
+cheap backlink building,cheap backlink building,207,tfidf_agglomerative,404,False,1.0
+jogging sneakers for men,jogging sneakers for men,208,tfidf_agglomerative,385,False,1.0
+home workout tips,home workout tips,209,tfidf_agglomerative,403,False,1.0
+best things to do in bali for first timers,best things to do in bali for first timers,210,tfidf_agglomerative,7,False,0.6246
+student laptop for video editing,student laptop for video editing,90,tfidf_agglomerative,64,False,1.0
+cheap yoga at home,cheap yoga at home,211,tfidf_agglomerative,45,False,0.6916
+BEST UBUD HOTELS FOR FIRST TIMERS,best ubud hotels for first timers,212,tfidf_agglomerative,74,False,0.7385
+top vehicle insurance policy students,top vehicle insurance policy students,213,tfidf_agglomerative,24,False,1.0
+liability insurance for cars review,liability insurance for cars review,214,tfidf_agglomerative,28,False,1.0
+how to choose trail running shoes,how to choose trail running shoes,215,tfidf_agglomerative,287,False,1.0
+buy plant based meals online,buy plant based meals online,216,tfidf_agglomerative,407,False,1.0
+top carbon plate shoes wide feet,top carbon plate shoes wide feet,217,tfidf_agglomerative,46,False,0.6225
+best cloud crm for real estate,best cloud crm for real estate,218,tfidf_agglomerative,111,False,1.0
+best full coverage insurance for low mileage,best full coverage insurance for low mileage,219,tfidf_agglomerative,344,False,1.0
+comprehensive car insurance review,comprehensive car insurance review,220,tfidf_agglomerative,81,False,0.6783
+what is the best vegan meal prep,what is the best vegan meal prep,221,tfidf_agglomerative,44,False,1.0
+top vegan protein snacks budget,top vegan protein snacks budget,222,tfidf_agglomerative,25,False,0.6645
+how to automate seo tools,how to automate seo tools,223,tfidf_agglomerative,387,False,1.0
+positive reinforcement dog training tips,positive reinforcement dog training tips,163,tfidf_agglomerative,101,False,1.0
+  30  minutes bodyweight exercises ,30 minutes bodyweight exercises,224,tfidf_agglomerative,213,False,1.0
+top liability insurance for cars students,top liability insurance for cars students,225,tfidf_agglomerative,409,False,1.0
+how to measure seo tools,how to measure seo tools,226,tfidf_agglomerative,243,False,1.0
+buy student laptop online,buy student laptop online,227,tfidf_agglomerative,244,False,1.0
+top plant baesd meals gluten free,top plant baesd meals gluten free,228,tfidf_agglomerative,148,False,0.6765
+buy gaming laptop olnine,buy gaming laptop olnine,229,tfidf_agglomerative,35,False,1.0
+buy credit card online,buy credit card online,230,tfidf_agglomerative,36,False,1.0
+best ultrabook for video editing,best ultrabook for video editing,231,tfidf_agglomerative,375,False,1.0
+bali visa tips,bali visa tips,232,tfidf_agglomerative,395,False,1.0
+top plant bsaed meals beginners,top plant bsaed meals beginners,233,tfidf_agglomerative,236,False,1.0
+budget notebook computer review,budget notebook computer review,234,tfidf_agglomerative,30,False,0.699
+top marathon shoes rainy weather,top marathon shoes rainy weather,235,tfidf_agglomerative,321,False,1.0
+top lead tracking crm pipeline management,top lead tracking crm pipeline management,236,tfidf_agglomerative,167,False,1.0
+cheap car insurance renewal,cheap car insurance renewal,237,tfidf_agglomerative,156,False,1.0
+best backlink building for free,best backlink building for free,238,tfidf_agglomerative,364,False,1.0
+lead tracking crm for freelancers,lead tracking crm for freelancers,239,tfidf_agglomerative,94,False,0.6479
+credit card rewards reveiw,credit card rewards reveiw,240,tfidf_agglomerative,166,False,1.0
+airline miles credit card rewards,airline miles credit card rewards,241,tfidf_agglomerative,360,False,1.0
+car insurance tips,car insurance tips,242,tfidf_agglomerative,105,False,1.0
+marathon shoes for women,marathon shoes for women,243,tfidf_agglomerative,272,False,1.0
+how to compare auto insurance quotes,how to compare auto insurance quotes,244,tfidf_agglomerative,298,False,1.0
+what is the best business laptop,what is the best business laptop,245,tfidf_agglomerative,136,False,1.0
+30 minutes bodyweight exercises,30 minutes bodyweight exercises,224,tfidf_agglomerative,213,False,1.0
+adult dogs crate training,adult dogs crate training,246,tfidf_agglomerative,285,False,1.0
+house training a puppy for adult dogs,house training a puppy for adult dogs,247,tfidf_agglomerative,31,False,0.6892
+what is the best car insurance renewal,what is the best car insurance renewal,203,tfidf_agglomerative,100,False,0.8542
+top student laptop coding,top student laptop coding,176,tfidf_agglomerative,302,False,1.0
+top stop dog barking puppies,top stop dog barking puppies,248,tfidf_agglomerative,88,False,0.6377
+best trail running shoes for men,best trail running shoes for men,249,tfidf_agglomerative,61,False,0.7811
+best seo tools for blogs,best seo tools for blogs,250,tfidf_agglomerative,346,False,1.0
+best car insurance renewal for students,best car insurance renewal for students,251,tfidf_agglomerative,63,False,1.0
+best dog obedeince classes for rescue dogs,best dog obedeince classes for rescue dogs,252,tfidf_agglomerative,210,False,1.0
+free crm for email marketing,free crm for email marketing,253,tfidf_agglomerative,157,False,1.0
+couples bali villas,couples bali villas,254,tfidf_agglomerative,59,False,1.0
+best vehicle insurance policy for seniors,best vehicle insurance policy for seniors,255,tfidf_agglomerative,138,False,0.6647
+bali visa review,bali visa review,256,tfidf_agglomerative,376,False,1.0
+top carbon plate shoes men,top carbon plate shoes men,257,tfidf_agglomerative,46,False,1.0
+how to plan no equipment workout,how to plan no equipment workout,258,tfidf_agglomerative,392,False,1.0
+best ubud hotels for monsoon season,best ubud hotels for monsoon season,259,tfidf_agglomerative,1,False,1.0
+cheap technical seo checklist,cheap technical seo checklist,260,tfidf_agglomerative,50,False,0.6901
+HOW TO PLAN NO EQUIPMENT WORKOUT,how to plan no equipment workout,258,tfidf_agglomerative,392,False,1.0
+jaguar,jaguar,261,tfidf_agglomerative,319,False,1.0
+cheap leash training,cheap leash training,262,tfidf_agglomerative,292,False,1.0
+how to integrate crm software,how to integrate crm software,59,tfidf_agglomerative,345,False,1.0
+flat feet trail running shoes,flat feet trail running shoes,263,tfidf_agglomerative,150,False,1.0
+TRAIL RUNNING SHOES FOR PLANTAR FASCIITIS,trail running shoes for plantar fasciitis,264,tfidf_agglomerative,377,False,1.0
+how to start dumbbell workout,how to start dumbbell workout,265,tfidf_agglomerative,342,False,1.0
+positive reinforcement dog training review,positive reinforcement dog training review,266,tfidf_agglomerative,101,False,0.8025
+  best  car insurance for low mileage ,best car insurance for low mileage,267,tfidf_agglomerative,126,False,0.827
+vegan breakfast for weeknight,vegan breakfast for weeknight,268,tfidf_agglomerative,410,False,1.0
+what is the best crate training,what is the best crate training,269,tfidf_agglomerative,195,False,1.0
+comprehensive car insurance for seniors,comprehensive car insurance for seniors,270,tfidf_agglomerative,80,False,0.8863
+abs bodyweight exercises,abs bodyweight exercises,271,tfidf_agglomerative,293,False,1.0
+best vegan recipes for budget,best vegan recipes for budget,272,tfidf_agglomerative,283,False,1.0
+VIDEO EDITING ULTRABOOK,video editing ultrabook,273,tfidf_agglomerative,318,False,1.0
+resistance band exercises tips,resistance band exercises tips,274,tfidf_agglomerative,48,False,1.0
+buy minimalist runnnig shoes online,buy minimalist runnnig shoes online,275,tfidf_agglomerative,190,False,1.0
+how to upgrade student laptop,how to upgrade student laptop,276,tfidf_agglomerative,259,False,1.0
+what is the best vehicle insurance policy,what is the best vehicle insurance policy,277,tfidf_agglomerative,204,False,1.0
+top dog obedience classes aggressive dogs,top dog obedience classes aggressive dogs,278,tfidf_agglomerative,389,False,1.0
+buy sales crm online,buy sales crm online,279,tfidf_agglomerative,296,False,1.0
+hiit routine for weight loss,hiit routine for weight loss,280,tfidf_agglomerative,42,False,1.0
+TOP BEST CREDIT CARD ONLINE SHOPPING,top best credit card online shopping,194,tfidf_agglomerative,184,False,0.7113
+best cheap car insurance for classic cars,best cheap car insurance for classic cars,281,tfidf_agglomerative,304,False,1.0
+cheap content marketing strategy,cheap content marketing strategy,282,tfidf_agglomerative,8,False,0.7281
+stop dog barking tips,stop dog barking tips,283,tfidf_agglomerative,6,False,1.0
+cheap full coverage insurance,cheap full coverage insurance,284,tfidf_agglomerative,142,False,1.0
+stability running shoes for long distance,stability running shoes for long distance,285,tfidf_agglomerative,95,False,0.7247
+cheap car insurance for low mileage,cheap car insurance for low mileage,286,tfidf_agglomerative,126,False,1.0
+how to track resistance band exercises,how to track resistance band exercises,287,tfidf_agglomerative,140,False,1.0
+top crm tool pipeline maangement,top crm tool pipeline maangement,288,tfidf_agglomerative,125,False,1.0
+  top  bali honeymoon packages budget ,top bali honeymoon packages budget,289,tfidf_agglomerative,21,False,0.6436
+top stop dog barking aggressive dogs,top stop dog barking aggressive dogs,290,tfidf_agglomerative,228,False,1.0
+how to correct dog training,how to correct dog training,291,tfidf_agglomerative,365,False,1.0
+technical seo checklist tips,technical seo checklist tips,292,tfidf_agglomerative,50,False,1.0
+best vehicle insurance policy for classic cars,best vehicle insurance policy for classic cars,293,tfidf_agglomerative,138,False,1.0
+what is the best vegan dinner,what is the best vegan dinner,294,tfidf_agglomerative,203,False,1.0
+bali honeymoon packages tips,bali honeymoon packages tips,295,tfidf_agglomerative,21,False,0.7265
+best comprehensive car insurance for seniors,best comprehensive car insurance for seniors,296,tfidf_agglomerative,80,False,1.0
+what is the best seo audit,what is the best seo audit,297,tfidf_agglomerative,207,False,1.0
+startups free crm,startups free crm,298,tfidf_agglomerative,284,False,1.0
+lounge access best credit card,lounge access best credit card,299,tfidf_agglomerative,348,False,1.0
+best carbon plate shoes for long distance,best carbon plate shoes for long distance,300,tfidf_agglomerative,202,False,0.9233
+amazon,amazon,301,tfidf_agglomerative,288,False,1.0
+buy sales crm online,buy sales crm online,279,tfidf_agglomerative,296,False,1.0
+buy stability running shoes online,buy stability running shoes online,302,tfidf_agglomerative,168,False,1.0
+bali travel guide review,bali travel guide review,303,tfidf_agglomerative,49,False,0.6808
+leash training for rescue dogs,leash training for rescue dogs,304,tfidf_agglomerative,20,False,1.0
+top seo tools 2026,top seo tools 2026,305,tfidf_agglomerative,261,False,1.0
+what is the best best credit card,what is the best best credit card,306,tfidf_agglomerative,217,False,0.7379
+how to correct crate training,how to correct crate training,307,tfidf_agglomerative,260,False,1.0
+how to clean racing flats,how to clean racing flats,308,tfidf_agglomerative,368,False,1.0
+BUY TECHNICAL SEO CHECKLIST ONLINE,buy technical seo checklist online,309,tfidf_agglomerative,170,False,1.0
+WHAT IS THE BEST JOGGING SNEAKERS,what is the best jogging sneakers,110,tfidf_agglomerative,249,False,1.0
+vegan meal prep for kids,vegan meal prep for kids,310,tfidf_agglomerative,171,False,1.0
+  customer  database software review ,customer database software review,132,tfidf_agglomerative,53,False,1.0
+laptop with long battery life review,laptop with long battery life review,311,tfidf_agglomerative,66,False,0.8352
+how to migrate to customer database software,how to migrate to customer database software,312,tfidf_agglomerative,139,False,1.0
+top yoga at home beginners,top yoga at home beginners,313,tfidf_agglomerative,15,False,1.0
+cheap customer database software,cheap customer database software,314,tfidf_agglomerative,53,False,0.6742
+best home gym setup for beginners,best home gym setup for beginners,315,tfidf_agglomerative,98,False,1.0
+best resistance band exercises for back pain,best resistance band exercises for back pain,171,tfidf_agglomerative,271,False,1.0
+buy car insurance renewal online,buy car insurance renewal online,316,tfidf_agglomerative,378,False,1.0
+cheap running shoes,cheap running shoes,317,tfidf_agglomerative,358,False,1.0
+dumbbell workout review,dumbbell workout review,318,tfidf_agglomerative,22,False,1.0
+budget things to do in bali,budget things to do in bali,319,tfidf_agglomerative,7,False,0.7738
+vegan recipes review,vegan recipes review,320,tfidf_agglomerative,14,False,0.6023
+dumbbell workout tips,dumbbell workout tips,321,tfidf_agglomerative,22,False,0.6167
+cheap vegan dessert,cheap vegan dessert,322,tfidf_agglomerative,252,False,1.0
+freelancers free crm,freelancers free crm,323,tfidf_agglomerative,62,False,0.6352
+buy technical seo checklist online,buy technical seo checklist online,309,tfidf_agglomerative,170,False,1.0
+best dog obedience classes for aggressive dogs,best dog obedience classes for aggressive dogs,324,tfidf_agglomerative,67,False,1.0
+surfing bali itinerary,surfing bali itinerary,325,tfidf_agglomerative,289,False,1.0
+buy dumbbell workout online,buy dumbbell workout online,326,tfidf_agglomerative,277,False,1.0
+cheap bali visa,cheap bali visa,327,tfidf_agglomerative,214,False,1.0
+marathon shoes review,marathon shoes review,328,tfidf_agglomerative,13,False,1.0
+video editing lightweight laptop,video editing lightweight laptop,329,tfidf_agglomerative,417,False,1.0
+low interest credit card for lounge access,low interest credit card for lounge access,330,tfidf_agglomerative,311,False,1.0
+how to bake vegan dinner,how to bake vegan dinner,331,tfidf_agglomerative,47,False,1.0
+7 days bali visa,7 days bali visa,332,tfidf_agglomerative,83,False,1.0
+how to make vegan meal prep,how to make vegan meal prep,333,tfidf_agglomerative,129,False,1.0
+what is the best minimalist running shoes,what is the best minimalist running shoes,334,tfidf_agglomerative,414,False,1.0
+crm tool for small business,crm tool for small business,335,tfidf_agglomerative,354,False,1.0
+buy vegan protein snacks online,buy vegan protein snacks online,336,tfidf_agglomerative,25,False,0.6577
+cheap home workout,cheap home workout,337,tfidf_agglomerative,231,False,1.0
+monsoon season things to do in bali,monsoon season things to do in bali,338,tfidf_agglomerative,7,False,0.6879
+video editing budget notebook computer,video editing budget notebook computer,339,tfidf_agglomerative,372,False,1.0
+college lightweight laptop,college lightweight laptop,340,tfidf_agglomerative,5,False,0.6015
+marathon shoes tips,marathon shoes tips,341,tfidf_agglomerative,13,False,0.601
+what is the best bali beaches,what is the best bali beaches,342,tfidf_agglomerative,23,False,0.6599
+best dog obedience classes for rescue dogs,best dog obedience classes for rescue dogs,343,tfidf_agglomerative,67,False,0.7041
+beginners plant based meals,beginners plant based meals,344,tfidf_agglomerative,73,False,1.0
+home gym setup review,home gym setup review,345,tfidf_agglomerative,196,False,0.7137
+weeknight tofu recipes,weeknight tofu recipes,346,tfidf_agglomerative,308,False,1.0
+carbon plate shoes for long distance,carbon plate shoes for long distance,347,tfidf_agglomerative,202,False,1.0
+how to choose lead tracking crm,how to choose lead tracking crm,348,tfidf_agglomerative,306,False,1.0
+top tofu recipes one pot,top tofu recipes one pot,349,tfidf_agglomerative,146,False,1.0
+how to buy vehicle insurance policy,how to buy vehicle insurance policy,350,tfidf_agglomerative,256,False,1.0
+what is the best tofu recipes,what is the best tofu recipes,351,tfidf_agglomerative,253,False,1.0
+student laptop review,student laptop review,352,tfidf_agglomerative,227,False,0.7657
+HOW TO PREPARE PLANT BASED MEALS,how to prepare plant based meals,353,tfidf_agglomerative,320,False,1.0
+best vehicle insurance policy for classic cars,best vehicle insurance policy for classic cars,293,tfidf_agglomerative,138,False,1.0
+WHAT IS THE BEST DUMBBELL WORKOUT,what is the best dumbbell workout,354,tfidf_agglomerative,390,False,1.0
+BEGINNERS CASHBACK CREDIT CARD,beginners cashback credit card,105,tfidf_agglomerative,242,False,0.6425
+what is the best bali villas,what is the best bali villas,355,tfidf_agglomerative,23,False,0.6883
+student credit card tips,student credit card tips,356,tfidf_agglomerative,32,False,0.6582
+first timers ubud hotels,first timers ubud hotels,357,tfidf_agglomerative,159,False,1.0
+CRATE TRAINING TIPS,crate training tips,358,tfidf_agglomerative,397,False,1.0
+what is the best business credit card,what is the best business credit card,359,tfidf_agglomerative,136,False,0.7186
+buy business credit card online,buy business credit card online,360,tfidf_agglomerative,331,False,1.0
+top seo audit startups,top seo audit startups,361,tfidf_agglomerative,11,False,0.6125
+buy puppy training tips online,buy puppy training tips online,362,tfidf_agglomerative,388,False,1.0
+top vgean meal prep one pot,top vgean meal prep one pot,363,tfidf_agglomerative,39,False,0.7042
+  buy  local seo online ,buy local seo online,162,tfidf_agglomerative,263,False,1.0
+small business crm for small agency,small business crm for small agency,364,tfidf_agglomerative,112,False,0.6679
+top vehicle insurance policy low mileage,top vehicle insurance policy low mileage,365,tfidf_agglomerative,24,False,0.6093
+BEGINNERS LEASH TRAINING,beginners leash training,155,tfidf_agglomerative,268,False,1.0
+families vehicle insurance policy,families vehicle insurance policy,366,tfidf_agglomerative,199,False,0.6891
+buy low interest credit card online,buy low interest credit card online,367,tfidf_agglomerative,57,False,0.6622
+low interest credit card tips,low interest credit card tips,368,tfidf_agglomerative,57,False,1.0
+beginners crate training,beginners crate training,369,tfidf_agglomerative,322,False,1.0
+how to choose lightweight laptop,how to choose lightweight laptop,370,tfidf_agglomerative,270,False,1.0
+buy stop dog barking online,buy stop dog barking online,371,tfidf_agglomerative,6,False,0.6005
+top credit card online shopping,top credit card online shopping,7,tfidf_agglomerative,184,False,1.0
+student laptop for streaming,student laptop for streaming,372,tfidf_agglomerative,96,False,1.0
+vegan breakfast review,vegan breakfast review,373,tfidf_agglomerative,363,False,1.0
+what is the best hiit routine,what is the best hiit routine,374,tfidf_agglomerative,393,False,1.0
+how to make tofu recipes,how to make tofu recipes,375,tfidf_agglomerative,121,False,1.0
+no equipment workout for small space,no equipment workout for small space,376,tfidf_agglomerative,151,False,1.0
+mercury,mercury,377,tfidf_agglomerative,135,False,1.0
+top travel credit card bad credit,top travel credit card bad credit,378,tfidf_agglomerative,239,False,1.0
+how to choose racing flats,how to choose racing flats,106,tfidf_agglomerative,301,False,1.0
+business credit card review,business credit card review,379,tfidf_agglomerative,120,False,0.6652
+tcehnical seo checklist tips,tcehnical seo checklist tips,380,tfidf_agglomerative,291,False,1.0
+top vegan dinner gluten free,top vegan dinner gluten free,381,tfidf_agglomerative,275,False,1.0
+best low interest credit card for students,best low interest credit card for students,188,tfidf_agglomerative,164,False,1.0
+bank,bank,382,tfidf_agglomerative,223,False,1.0
+what is the best crm software,what is the best crm software,383,tfidf_agglomerative,103,False,1.0
+buy comprehensive car insurance online,buy comprehensive car insurance online,384,tfidf_agglomerative,33,False,1.0
+SALES CRM TIPS,sales crm tips,385,tfidf_agglomerative,26,False,1.0
+vehicle insurance policy tips,vehicle insurance policy tips,72,tfidf_agglomerative,77,False,0.6565
+best bali visa for first timers,best bali visa for first timers,386,tfidf_agglomerative,123,False,1.0
+comprehensive car insurance tips,comprehensive car insurance tips,387,tfidf_agglomerative,105,False,0.7971
+home gym steup tips,home gym steup tips,388,tfidf_agglomerative,69,False,1.0
+  what  is the best trail running shoes ,what is the best trail running shoes,389,tfidf_agglomerative,40,False,0.6582
+house training a puppy for aggressive dogs,house training a puppy for aggressive dogs,390,tfidf_agglomerative,31,False,0.7152
+how to explore ubud hotels,how to explore ubud hotels,391,tfidf_agglomerative,250,False,1.0
+what is the best cheap car insurance,what is the best cheap car insurance,392,tfidf_agglomerative,100,False,0.7022
+bodyweight exercises tips,bodyweight exercises tips,393,tfidf_agglomerative,221,False,1.0
+top carbon plate shoes plantar fasciitis,top carbon plate shoes plantar fasciitis,187,tfidf_agglomerative,357,False,1.0
+dog training review,dog training review,394,tfidf_agglomerative,181,False,1.0
+best house training a puppy for puppies,best house training a puppy for puppies,395,tfidf_agglomerative,31,False,0.7257
+how to lace trail running shoes,how to lace trail running shoes,396,tfidf_agglomerative,127,False,1.0
+best crate training for beginners,best crate training for beginners,397,tfidf_agglomerative,379,False,1.0
+best car insurance for low mileage,best car insurance for low mileage,267,tfidf_agglomerative,126,False,0.827
+how to train puppy training tips,how to train puppy training tips,147,tfidf_agglomerative,266,False,1.0
+seo audit for 2026,seo audit for 2026,398,tfidf_agglomerative,339,False,1.0
+  how  to explore things to do in bali ,how to explore things to do in bali,49,tfidf_agglomerative,7,False,0.6957
+cheap cluod crm,cheap cluod crm,399,tfidf_agglomerative,340,False,1.0
+how to audit local seo,how to audit local seo,400,tfidf_agglomerative,313,False,1.0
+budget notebook computer tips,budget notebook computer tips,401,tfidf_agglomerative,30,False,1.0
+surfing bali itinerary,surfing bali itinerary,325,tfidf_agglomerative,289,False,1.0
+TOP SEO AUDIT BEGINNERS,top seo audit beginners,402,tfidf_agglomerative,11,False,1.0
+racing flats tips,racing flats tips,403,tfidf_agglomerative,265,False,1.0
+bodyweight exercises tips,bodyweight exercises tips,393,tfidf_agglomerative,221,False,1.0
+stability running shoes review,stability running shoes review,404,tfidf_agglomerative,143,False,1.0
+how to learn content marketing strategy,how to learn content marketing strategy,405,tfidf_agglomerative,172,False,1.0
+quick plant based meals,quick plant based meals,406,tfidf_agglomerative,73,False,0.66
+cheap no equipment workout,cheap no equipment workout,407,tfidf_agglomerative,79,False,0.7151
+cashback credit card tips,cashback credit card tips,408,tfidf_agglomerative,242,False,1.0
+top minimalist running shoes flat feet,top minimalist running shoes flat feet,409,tfidf_agglomerative,307,False,1.0
+what is the best dumbbell workout,what is the best dumbbell workout,354,tfidf_agglomerative,390,False,1.0
+surfnig ubud hotels,surfnig ubud hotels,410,tfidf_agglomerative,134,False,1.0
+stop dog barking for puppies,stop dog barking for puppies,411,tfidf_agglomerative,88,False,1.0
+cheap cheap car insurance,cheap cheap car insurance,412,tfidf_agglomerative,240,False,1.0
+TOFU RECIPES REVIEW,tofu recipes review,413,tfidf_agglomerative,14,False,1.0
+local seo tips,local seo tips,414,tfidf_agglomerative,137,False,1.0
+sales crm tips,sales crm tips,385,tfidf_agglomerative,26,False,1.0
+buy customer database software online,buy customer database software online,415,tfidf_agglomerative,175,False,1.0
+best vegan meal prep for weeknight,best vegan meal prep for weeknight,416,tfidf_agglomerative,44,False,0.6275
+best keyword research for agencies,best keyword research for agencies,417,tfidf_agglomerative,27,False,0.6016
+seo audit review,seo audit review,418,tfidf_agglomerative,232,False,1.0
+minimalist running shoes tips,minimalist running shoes tips,419,tfidf_agglomerative,97,False,0.6862
+BEST LEAD TRACKING CRM FOR STARTUPS,best lead tracking crm for startups,95,tfidf_agglomerative,94,False,1.0
+best customer database software for freelancers,best customer database software for freelancers,420,tfidf_agglomerative,54,False,1.0
+cheap crm software,cheap crm software,421,tfidf_agglomerative,316,False,1.0
+buy seo tools online,buy seo tools online,422,tfidf_agglomerative,165,False,1.0
+cheap seo tools,cheap seo tools,145,tfidf_agglomerative,312,False,1.0
+what is the best running shoes,what is the best running shoes,423,tfidf_agglomerative,40,False,1.0
+cheap gaming laptop,cheap gaming laptop,424,tfidf_agglomerative,400,False,1.0
+what is the best carbon plate shoes,what is the best carbon plate shoes,425,tfidf_agglomerative,147,False,1.0
+VEGAN PROTEIN SNACKS REVIEW,vegan protein snacks review,426,tfidf_agglomerative,25,False,0.7335
+30 minutes hiit routine,30 minutes hiit routine,427,tfidf_agglomerative,330,False,1.0
+top ubud hotels monsoon season,top ubud hotels monsoon season,428,tfidf_agglomerative,1,False,0.604
+back pain bodyweight exercises,back pain bodyweight exercises,18,tfidf_agglomerative,222,False,1.0
+what is the best dog obedience classes,what is the best dog obedience classes,429,tfidf_agglomerative,43,False,1.0
+top seo audit agencies,top seo audit agencies,430,tfidf_agglomerative,11,False,0.6125
+best travel credit card for no annual fee,best travel credit card for no annual fee,431,tfidf_agglomerative,155,False,0.8405
+cheap trail running shoes,cheap trail running shoes,432,tfidf_agglomerative,154,False,1.0
+free crm tips,free crm tips,433,tfidf_agglomerative,179,False,1.0
+HOW TO BOOK BALI ITINERARY,how to book bali itinerary,101,tfidf_agglomerative,273,False,1.0
+cheap business credit card,cheap business credit card,434,tfidf_agglomerative,120,False,0.6388
+  best  jogging sneakers for wide feet ,best jogging sneakers for wide feet,435,tfidf_agglomerative,99,False,0.6741
+bali villas review,bali villas review,436,tfidf_agglomerative,258,False,1.0
+jogging sneakers for long distance,jogging sneakers for long distance,437,tfidf_agglomerative,114,False,1.0
+top gaming laptop programming,top gaming laptop programming,438,tfidf_agglomerative,412,False,1.0
+how to switch car insurance,how to switch car insurance,439,tfidf_agglomerative,201,False,1.0
+buy liability insurance for cars online,buy liability insurance for cars online,440,tfidf_agglomerative,28,False,0.6526
+how to prepare plant based meals,how to prepare plant based meals,353,tfidf_agglomerative,320,False,1.0
+first timers bali beaches,first timers bali beaches,441,tfidf_agglomerative,197,False,1.0
+what is the best positive reinforcement dog training,what is the best positive reinforcement dog training,442,tfidf_agglomerative,101,False,0.6954
+cloud crm review,cloud crm review,443,tfidf_agglomerative,9,False,0.6136
+mouse,mouse,444,tfidf_agglomerative,384,False,1.0
+top seo audit beginners,top seo audit beginners,402,tfidf_agglomerative,11,False,1.0
+seo tools review,seo tools review,445,tfidf_agglomerative,234,False,1.0
+what is the best crm tool,what is the best crm tool,446,tfidf_agglomerative,103,False,0.7005
+how to clean stability running shoes,how to clean stability running shoes,447,tfidf_agglomerative,187,False,1.0
+how to plan bodyweight exercises,how to plan bodyweight exercises,448,tfidf_agglomerative,89,False,1.0
+buy bali visa online,buy bali visa online,449,tfidf_agglomerative,132,False,1.0
+cheap things to do in bali,cheap things to do in bali,450,tfidf_agglomerative,7,False,0.7892
+on page seo tips,on page seo tips,451,tfidf_agglomerative,55,False,1.0
+vegan dessert review,vegan dessert review,452,tfidf_agglomerative,177,False,1.0
+best ubud hotels for first timers,best ubud hotels for first timers,212,tfidf_agglomerative,74,False,0.7385
+content marketing strategy review,content marketing strategy review,453,tfidf_agglomerative,8,False,1.0
+crm tool for freelancers,crm tool for freelancers,454,tfidf_agglomerative,37,False,0.9018
+top trail running shoes beginners,top trail running shoes beginners,455,tfidf_agglomerative,178,False,1.0
+TOP VEHICLE INSURANCE POLICY STUDENTS,top vehicle insurance policy students,213,tfidf_agglomerative,24,False,1.0
+top on page seo agencies,top on page seo agencies,456,tfidf_agglomerative,394,False,1.0
+top plant based meals beginners,top plant based meals beginners,457,tfidf_agglomerative,73,False,0.7121
+low interest credit card review,low interest credit card review,458,tfidf_agglomerative,57,False,0.7623
+vegan dinner review,vegan dinner review,459,tfidf_agglomerative,215,False,1.0
+buy gaming laptop online,buy gaming laptop online,460,tfidf_agglomerative,35,False,0.6344
+top low interest credit card fuel,top low interest credit card fuel,461,tfidf_agglomerative,193,False,1.0
+backlink building for small business,backlink building for small business,462,tfidf_agglomerative,10,False,0.6122
+top house training a puppy at home,top house training a puppy at home,463,tfidf_agglomerative,169,False,1.0
+TOP PLANT BASED MEALS BEGINNERS,top plant based meals beginners,457,tfidf_agglomerative,73,False,0.7121
+video editing ultrabook,video editing ultrabook,273,tfidf_agglomerative,318,False,1.0
+student credit card review,student credit card review,464,tfidf_agglomerative,117,False,0.6589
+top auto insurance quotes young drivers,top auto insurance quotes young drivers,53,tfidf_agglomerative,317,False,1.0
+vegan meal prep tips,vegan meal prep tips,465,tfidf_agglomerative,4,False,1.0
+WHAT IS THE BEST VEHICLE INSURANCE POLICY,what is the best vehicle insurance policy,277,tfidf_agglomerative,204,False,1.0
+buy budget notebook computer online,buy budget notebook computer online,466,tfidf_agglomerative,30,False,0.6113
+customer database software review,customer database software review,132,tfidf_agglomerative,53,False,1.0
+what is the best crm for small agency,what is the best crm for small agency,467,tfidf_agglomerative,51,False,0.6708
+crane,crane,468,tfidf_agglomerative,85,False,1.0
+what is the best customer database software,what is the best customer database software,469,tfidf_agglomerative,84,False,1.0
+top vegan breakfast beginners,top vegan breakfast beginners,470,tfidf_agglomerative,133,False,1.0
+top auto insurance quotes new cars,top auto insurance quotes new cars,471,tfidf_agglomerative,18,False,0.6264
+credit card for students,credit card for students,472,tfidf_agglomerative,144,False,1.0
+cheap ultrabook,cheap ultrabook,473,tfidf_agglomerative,141,False,1.0
+technical seo checklist for startups,technical seo checklist for startups,148,tfidf_agglomerative,113,False,1.0
+cheap positive reinforcement dog training,cheap positive reinforcement dog training,474,tfidf_agglomerative,101,False,0.7867
+top resistance band exercises weight loss,top resistance band exercises weight loss,475,tfidf_agglomerative,189,False,0.7108
+orange,orange,476,tfidf_agglomerative,131,False,1.0
+best technical seo checklist for 2026,best technical seo checklist for 2026,477,tfidf_agglomerative,113,False,0.6484
+top bodyweight exercises weight loss,top bodyweight exercises weight loss,478,tfidf_agglomerative,305,False,1.0
+top lightweight laptop under 50000 rupees,top lightweight laptop under 50000 rupees,479,tfidf_agglomerative,19,False,0.6489
+BALI VILLAS FOR FIRST TIMERS,bali villas for first timers,19,tfidf_agglomerative,323,False,1.0
+college student laptop,college student laptop,480,tfidf_agglomerative,107,False,1.0
+tofu recipes review,tofu recipes review,413,tfidf_agglomerative,14,False,1.0
+what is the best on page seo,what is the best on page seo,481,tfidf_agglomerative,55,False,0.6125
+best free crm for email marketing,best free crm for email marketing,482,tfidf_agglomerative,157,False,0.8984
+cloud crm tips,cloud crm tips,483,tfidf_agglomerative,9,False,1.0
+buy content marketing strategy online,buy content marketing strategy online,484,tfidf_agglomerative,8,False,0.6449
+top plant based meals gluten free,top plant based meals gluten free,485,tfidf_agglomerative,148,False,1.0
+business credit card tips,business credit card tips,486,tfidf_agglomerative,120,False,1.0
+how to set up customer database software,how to set up customer database software,487,tfidf_agglomerative,185,False,1.0
+free crm for freelancers,free crm for freelancers,488,tfidf_agglomerative,62,False,1.0
+dog obedience classes tips,dog obedience classes tips,172,tfidf_agglomerative,78,False,1.0
+  how  to migrate to crm for small agency ,how to migrate to crm for small agency,489,tfidf_agglomerative,116,False,1.0
+on page seo review,on page seo review,490,tfidf_agglomerative,55,False,0.7122
+credit card rewards tips,credit card rewards tips,491,tfidf_agglomerative,2,False,1.0
+cheap laptop,cheap laptop,492,tfidf_agglomerative,161,False,1.0
+top running shoes wide feet,top running shoes wide feet,493,tfidf_agglomerative,183,False,1.0
+how to migrate to crm for small agency,how to migrate to crm for small agency,489,tfidf_agglomerative,116,False,1.0
+best bodyweight exercises for beginners,best bodyweight exercises for beginners,494,tfidf_agglomerative,405,False,1.0
+top vegan meal prep beginners,top vegan meal prep beginners,495,tfidf_agglomerative,4,False,0.6047
+best customer database software for email marketing,best customer database software for email marketing,202,tfidf_agglomerative,54,False,0.6743
+what is the best stop dog barking,what is the best stop dog barking,496,tfidf_agglomerative,315,False,1.0
+  cheap  ultrabook ,cheap ultrabook,473,tfidf_agglomerative,141,False,1.0
+gaming laptop for office work,gaming laptop for office work,497,tfidf_agglomerative,118,False,1.0
+online shopping credit card rewards,online shopping credit card rewards,498,tfidf_agglomerative,162,False,1.0
+top comprehensive car insurance low mileage,top comprehensive car insurance low mileage,499,tfidf_agglomerative,251,False,1.0
+top lead tracking crm email marketing,top lead tracking crm email marketing,500,tfidf_agglomerative,290,False,1.0
+how to warm up for yoga at home,how to warm up for yoga at home,501,tfidf_agglomerative,124,False,1.0
+ubud hotels tips,ubud hotels tips,502,tfidf_agglomerative,186,False,1.0
+best jogging sneakers for wide feet,best jogging sneakers for wide feet,435,tfidf_agglomerative,99,False,0.6741
+what is the best travel credit card,what is the best travel credit card,503,tfidf_agglomerative,194,False,1.0
+buy running shoes online,buy running shoes online,504,tfidf_agglomerative,0,False,0.6001
+buy bali itinerary online,buy bali itinerary online,505,tfidf_agglomerative,218,False,1.0
+travel credit card tips,travel credit card tips,506,tfidf_agglomerative,65,False,0.6705
+cheap laptop with long battery life,cheap laptop with long battery life,507,tfidf_agglomerative,66,False,1.0
+how to size running shoes,how to size running shoes,508,tfidf_agglomerative,160,False,1.0
+keyword research for small business,keyword research for small business,509,tfidf_agglomerative,115,False,1.0
+best trail running shoes for wide feet,best trail running shoes for wide feet,510,tfidf_agglomerative,102,False,0.8248
+vegan dessert for weeknight,vegan dessert for weeknight,511,tfidf_agglomerative,56,False,0.6139
+laptop with long battery life for office work,laptop with long battery life for office work,512,tfidf_agglomerative,66,False,0.7036
+what is the best travel credit card,what is the best travel credit card,503,tfidf_agglomerative,194,False,1.0
+how to cancel liability insurance for cars,how to cancel liability insurance for cars,513,tfidf_agglomerative,176,False,1.0
+airline miles low interest credit card,airline miles low interest credit card,514,tfidf_agglomerative,262,False,1.0
+TOP STOP DOG BARKING PUPPIES,top stop dog barking puppies,248,tfidf_agglomerative,88,False,0.6377
+house training a puppy for beginners,house training a puppy for beginners,515,tfidf_agglomerative,31,False,1.0
+how to upgrade budget notebook computer,how to upgrade budget notebook computer,516,tfidf_agglomerative,70,False,1.0
+how to start home workout,how to start home workout,517,tfidf_agglomerative,188,False,1.0
+cheap home gym setup,cheap home gym setup,518,tfidf_agglomerative,196,False,1.0
+low mileage car insurance renewal,low mileage car insurance renewal,519,tfidf_agglomerative,153,False,1.0
+things to do in bali review,things to do in bali review,520,tfidf_agglomerative,7,False,0.7898
+buy minimalist running shoes online,buy minimalist running shoes online,521,tfidf_agglomerative,0,False,1.0
+crate training tips,crate training tips,358,tfidf_agglomerative,397,False,1.0
+  top  seo audit blogs ,top seo audit blogs,522,tfidf_agglomerative,206,False,1.0
+crm tool for freelancers,crm tool for freelancers,454,tfidf_agglomerative,37,False,0.9018
+yoga at home review,yoga at home review,523,tfidf_agglomerative,45,False,1.0
+resistance band exercises for busy people,resistance band exercises for busy people,524,tfidf_agglomerative,106,False,1.0
+best no equipment workout for 30 minutes,best no equipment workout for 30 minutes,525,tfidf_agglomerative,71,False,1.0
+house training a puppy review,house training a puppy review,526,tfidf_agglomerative,31,False,0.7019
+cheap cloud crm,cheap cloud crm,527,tfidf_agglomerative,205,False,1.0
+cheap on page seo,cheap on page seo,528,tfidf_agglomerative,55,False,0.7115
+  top  plant based meals beginners ,top plant based meals beginners,457,tfidf_agglomerative,73,False,0.7121
+cheap credit card rewards,cheap credit card rewards,529,tfidf_agglomerative,2,False,0.6005
+business laptop for streaming,business laptop for streaming,530,tfidf_agglomerative,96,False,0.7229
+  how  to set up customer database software ,how to set up customer database software,487,tfidf_agglomerative,185,False,1.0
+what is the best trail running shoes,what is the best trail running shoes,389,tfidf_agglomerative,40,False,0.6582
+best student credit card for students,best student credit card for students,531,tfidf_agglomerative,144,False,0.7624
+top backlink building 2026,top backlink building 2026,127,tfidf_agglomerative,17,False,1.0
+top bali itinerary december,top bali itinerary december,532,tfidf_agglomerative,82,False,1.0
+BEST CARBON PLATE SHOES FOR LONG DISTANCE,best carbon plate shoes for long distance,300,tfidf_agglomerative,202,False,0.9233
+crm software tips,crm software tips,192,tfidf_agglomerative,326,False,1.0
+what is the best laptop,what is the best laptop,533,tfidf_agglomerative,191,False,1.0
+top yoga at home back pain,top yoga at home back pain,534,tfidf_agglomerative,15,False,0.6357
+seo tools for agencies,seo tools for agencies,535,tfidf_agglomerative,41,False,1.0
+programming ultrabook,programming ultrabook,536,tfidf_agglomerative,128,False,1.0
+weight loss hiit routine,weight loss hiit routine,537,tfidf_agglomerative,42,False,0.7322
+business laptop tips,business laptop tips,538,tfidf_agglomerative,152,False,1.0
+technical seo checklist for free,technical seo checklist for free,539,tfidf_agglomerative,113,False,0.7278
+TOP SEO AUDIT BLOGS,top seo audit blogs,522,tfidf_agglomerative,206,False,1.0
+running shoes review,running shoes review,540,tfidf_agglomerative,143,False,0.7813
+car insurance renewal tips,car insurance renewal tips,541,tfidf_agglomerative,156,False,0.6807
+vegan dessert for quick,vegan dessert for quick,542,tfidf_agglomerative,56,False,1.0
+2026 backlink building,2026 backlink building,543,tfidf_agglomerative,17,False,0.6087
+monsoon season bali itinerary,monsoon season bali itinerary,544,tfidf_agglomerative,182,False,1.0
+labradors leash training,labradors leash training,545,tfidf_agglomerative,34,False,1.0
+trail running shoes for plantar fasciitis,trail running shoes for plantar fasciitis,264,tfidf_agglomerative,377,False,1.0
+buy travel credit card online,buy travel credit card online,546,tfidf_agglomerative,174,False,1.0
+seo audit review,seo audit review,418,tfidf_agglomerative,232,False,1.0
+top stability running shoes women,top stability running shoes women,547,tfidf_agglomerative,130,False,1.0
+best stability running shoes for flat feet,best stability running shoes for flat feet,548,tfidf_agglomerative,158,False,1.0
+buy credit card rewards online,buy credit card rewards online,549,tfidf_agglomerative,36,False,0.6221
+buy lightweight laptop online,buy lightweight laptop online,550,tfidf_agglomerative,254,False,1.0
+free crm for email marketing,free crm for email marketing,253,tfidf_agglomerative,157,False,1.0
+TOP AUTO INSURANCE QUOTES NEW CARS,top auto insurance quotes new cars,471,tfidf_agglomerative,18,False,0.6264
+top crm tool pipeline management,top crm tool pipeline management,551,tfidf_agglomerative,125,False,0.6954
+top gaming laptop coding,top gaming laptop coding,552,tfidf_agglomerative,225,False,1.0
+vegan protein snacks review,vegan protein snacks review,426,tfidf_agglomerative,25,False,0.7335
+surfing ubud hotels,surfing ubud hotels,553,tfidf_agglomerative,12,False,0.6044
+cheap running shoes,cheap running shoes,317,tfidf_agglomerative,358,False,1.0
+FLAT FEET TRAIL RUNNING SHOES,flat feet trail running shoes,263,tfidf_agglomerative,150,False,1.0
+best credit card tips,best credit card tips,554,tfidf_agglomerative,32,False,1.0
+top cashback credit card students,top cashback credit card students,555,tfidf_agglomerative,145,False,1.0
+how to explore bali villas,how to explore bali villas,556,tfidf_agglomerative,92,False,1.0
+buy travel credit card online,buy travel credit card online,546,tfidf_agglomerative,174,False,1.0
+crate training review,crate training review,557,tfidf_agglomerative,173,False,1.0
+buy technical seo checklist online,buy technical seo checklist online,309,tfidf_agglomerative,170,False,1.0
+crm software review,crm software review,558,tfidf_agglomerative,109,False,1.0
+  vegan  recipes review ,vegan recipes review,320,tfidf_agglomerative,14,False,0.6023
+ultrabook tips,ultrabook tips,559,tfidf_agglomerative,119,False,1.0
+buy crm tool online,buy crm tool online,560,tfidf_agglomerative,149,False,1.0
+how to pay off low interest credit card,how to pay off low interest credit card,561,tfidf_agglomerative,108,False,0.6572
+what is the best lightweight laptop,what is the best lightweight laptop,562,tfidf_agglomerative,60,False,1.0
+top seo audit blogs,top seo audit blogs,522,tfidf_agglomerative,206,False,1.0
+bali travel guide tips,bali travel guide tips,563,tfidf_agglomerative,49,False,0.6813
+minimalist running shoes review,minimalist running shoes review,564,tfidf_agglomerative,97,False,1.0
+cheap vegan breakfast,cheap vegan breakfast,565,tfidf_agglomerative,212,False,1.0
+what is the best budget notebook computer,what is the best budget notebook computer,566,tfidf_agglomerative,38,False,0.6558
+how to season tofu recipes,how to season tofu recipes,567,tfidf_agglomerative,208,False,1.0
+top bali honeymoon packages budget,top bali honeymoon packages budget,289,tfidf_agglomerative,21,False,0.6436
+best car insurance renewal for seniors,best car insurance renewal for seniors,568,tfidf_agglomerative,63,False,0.7457
+top lightweight laptop office work,top lightweight laptop office work,569,tfidf_agglomerative,58,False,1.0
+cheap student credit card,cheap student credit card,570,tfidf_agglomerative,241,False,1.0
+how to compare credit card rewards,how to compare credit card rewards,571,tfidf_agglomerative,224,False,1.0
+buy bali villas online,buy bali villas online,572,tfidf_agglomerative,198,False,1.0
+best credit card for no annual fee,best credit card for no annual fee,573,tfidf_agglomerative,155,False,1.0
+what is the best vegan recipes,what is the best vegan recipes,574,tfidf_agglomerative,203,False,0.6958
+carbon plate shoes for beginners,carbon plate shoes for beginners,575,tfidf_agglomerative,110,False,1.0
+top vegan dessert weeknight,top vegan dessert weeknight,576,tfidf_agglomerative,90,False,1.0
+carbon plate shoes for flat feet,carbon plate shoes for flat feet,577,tfidf_agglomerative,110,False,0.6369
+cheap vegan protein snacks,cheap vegan protein snacks,578,tfidf_agglomerative,25,False,1.0
+buy car insurance online,buy car insurance online,579,tfidf_agglomerative,33,False,0.6185
+no equipment workout review,no equipment workout review,580,tfidf_agglomerative,79,False,0.7261
+agencies customer database software,agencies customer database software,581,tfidf_agglomerative,53,False,0.6322
+how to cohose customer database software,how to cohose customer database software,582,tfidf_agglomerative,75,False,1.0
+resistance band exercises reveiw,resistance band exercises reveiw,583,tfidf_agglomerative,48,False,0.6328
+cheap puppy training tips,cheap puppy training tips,584,tfidf_agglomerative,226,False,1.0
+buy vegan meal prep online,buy vegan meal prep online,585,tfidf_agglomerative,93,False,1.0
+what is the best local seo,what is the best local seo,586,tfidf_agglomerative,86,False,1.0
+free crm review,free crm review,587,tfidf_agglomerative,104,False,1.0
+laptop review,laptop review,588,tfidf_agglomerative,227,False,1.0
+best crm for small agency for agencies,best crm for small agency for agencies,589,tfidf_agglomerative,51,False,1.0
+gaming laptop tips,gaming laptop tips,590,tfidf_agglomerative,370,False,1.0
+what is the best seo tools,what is the best seo tools,591,tfidf_agglomerative,207,False,0.7089
+no equipment workout tips,no equipment workout tips,46,tfidf_agglomerative,79,False,1.0
+buy free crm online,buy free crm online,592,tfidf_agglomerative,192,False,1.0
+vegan dessert tips,vegan dessert tips,55,tfidf_agglomerative,374,False,1.0
+apple,apple,593,tfidf_agglomerative,415,False,1.0
+buy business credit card online,buy business credit card online,360,tfidf_agglomerative,331,False,1.0
+  how  to track resistance band exercises ,how to track resistance band exercises,287,tfidf_agglomerative,140,False,1.0
+best local seo for blogs,best local seo for blogs,594,tfidf_agglomerative,76,False,1.0
+yoga at home for beginners,yoga at home for beginners,595,tfidf_agglomerative,45,False,0.6262
+top cashback credit card students,top cashback credit card students,555,tfidf_agglomerative,145,False,1.0
+vegan meal prep review,vegan meal prep review,596,tfidf_agglomerative,4,False,0.6699
+lightweight laptop for video editing,lightweight laptop for video editing,0,minilm_hdbscan,17,False,0.6359
+how to cancel full coverage insurance,how to cancel full coverage insurance,1,minilm_hdbscan,4,False,0.4258
+top budget notebook computer programming,top budget notebook computer programming,2,minilm_hdbscan,17,False,0.5836
+full coverage insurance for new cars,full coverage insurance for new cars,3,minilm_hdbscan,4,False,0.6516
+running,running,4,minilm_hdbscan,-1,True,
+how to pay off student credit card,how to pay off student credit card,5,minilm_hdbscan,18,False,0.6335
+things to do in bali tips,things to do in bali tips,6,minilm_hdbscan,11,False,0.8179
+top credit card online shopping,top credit card online shopping,7,minilm_hdbscan,18,False,0.6566
+buy tofu recipes online,buy tofu recipes online,8,minilm_hdbscan,1,False,0.8227
+racing flats for rainy weather,racing flats for rainy weather,9,minilm_hdbscan,5,False,0.6518
+best stability running shoes for rainy weather,best stability running shoes for rainy weather,10,minilm_hdbscan,6,False,0.6677
+comprehensive car insurance for new cars,comprehensive car insurance for new cars,11,minilm_hdbscan,4,False,0.6996
+how to switch cheap car insurance,how to switch cheap car insurance,12,minilm_hdbscan,4,False,0.687
+2026 technical seo checklist,2026 technical seo checklist,13,minilm_hdbscan,15,False,0.572
+what is the best student laptop,what is the best student laptop,14,minilm_hdbscan,17,False,0.6851
+cheap business laptop,cheap business laptop,15,minilm_hdbscan,17,False,0.8939
+cheap bodyweight exercises,cheap bodyweight exercises,16,minilm_hdbscan,-1,True,
+buy vegan breakfast online,buy vegan breakfast online,17,minilm_hdbscan,2,False,0.6579
+back pain bodyweight exercises,back pain bodyweight exercises,18,minilm_hdbscan,27,False,0.702
+bali villas for first timers,bali villas for first timers,19,minilm_hdbscan,11,False,0.6412
+java,java,20,minilm_hdbscan,-1,True,
+top stop dog barking small breeds,top stop dog barking small breeds,21,minilm_hdbscan,8,False,0.9151
+best budget notebook computer for travel,best budget notebook computer for travel,22,minilm_hdbscan,17,False,0.7218
+bali itinerary review,bali itinerary review,23,minilm_hdbscan,11,False,0.7666
+top vegan dinner quick,top vegan dinner quick,24,minilm_hdbscan,2,False,0.7246
+back pain home workout,back pain home workout,25,minilm_hdbscan,27,False,0.8091
+online shopipng student credit card,online shopipng student credit card,26,minilm_hdbscan,18,False,0.7468
+top tofu recipes high protein,top tofu recipes high protein,27,minilm_hdbscan,1,False,0.7612
+cheap sales crm,cheap sales crm,28,minilm_hdbscan,-1,True,
+best auto insurance quotes for high risk drivers,best auto insurance quotes for high risk drivers,29,minilm_hdbscan,4,False,0.722
+backlink building tips,backlink building tips,30,minilm_hdbscan,0,False,0.9056
+what is the best car insurance,what is the best car insurance,31,minilm_hdbscan,4,False,1.0
+cheap customer dataabse software,cheap customer dataabse software,32,minilm_hdbscan,12,False,0.7109
+what is the best dog training,what is the best dog training,33,minilm_hdbscan,21,False,0.6783
+top vegan recipes beginners,top vegan recipes beginners,34,minilm_hdbscan,2,False,0.7198
+crm for small agency tips,crm for small agency tips,35,minilm_hdbscan,25,False,0.6814
+resistance band exercises review,resistance band exercises review,36,minilm_hdbscan,20,False,0.8675
+top hiit routine women,top hiit routine women,37,minilm_hdbscan,7,False,0.7568
+buy running sohes online,buy running sohes online,38,minilm_hdbscan,6,False,0.4973
+top bali travel guide couples,top bali travel guide couples,39,minilm_hdbscan,11,False,0.7557
+best resistance band exercises for weight loss,best resistance band exercises for weight loss,40,minilm_hdbscan,20,False,0.9648
+buy keyword research online,buy keyword research online,41,minilm_hdbscan,13,False,0.7233
+what is the best bali travel guide,what is the best bali travel guide,42,minilm_hdbscan,11,False,0.9173
+how to bake vegan dniner,how to bake vegan dniner,43,minilm_hdbscan,2,False,0.4756
+customer database software for startups,customer database software for startups,44,minilm_hdbscan,12,False,0.7919
+customer database software for freelancers,customer database software for freelancers,45,minilm_hdbscan,12,False,0.8108
+no equipment workout tips,no equipment workout tips,46,minilm_hdbscan,28,False,0.7702
+cheap bali honeymoon packages,cheap bali honeymoon packages,47,minilm_hdbscan,11,False,0.5778
+running shoes for men,running shoes for men,48,minilm_hdbscan,6,False,0.7143
+how to explore things to do in bali,how to explore things to do in bali,49,minilm_hdbscan,11,False,0.8285
+cheap dumbbell workout,cheap dumbbell workout,50,minilm_hdbscan,24,False,0.8118
+best home gym setup for back pain,best home gym setup for back pain,51,minilm_hdbscan,27,False,1.0
+best crate training for rescue dogs,best crate training for rescue dogs,52,minilm_hdbscan,14,False,0.7509
+top auto insurance quotes young drivers,top auto insurance quotes young drivers,53,minilm_hdbscan,4,False,0.5899
+top vegan recipes quick,top vegan recipes quick,54,minilm_hdbscan,2,False,0.7419
+vegan dessert tips,vegan dessert tips,55,minilm_hdbscan,2,False,0.6715
+how to repair gaming laptop,how to repair gaming laptop,56,minilm_hdbscan,17,False,0.4013
+plant based meals for high protein,plant based meals for high protein,57,minilm_hdbscan,3,False,0.7181
+buy resistance band exercises online,buy resistance band exercises online,58,minilm_hdbscan,20,False,0.8506
+  how  to integrate crm software ,how to integrate crm software,59,minilm_hdbscan,-1,True,
+top leash training beginners,top leash training beginners,60,minilm_hdbscan,21,False,0.7893
+buy student lpatop online,buy student lpatop online,61,minilm_hdbscan,-1,True,
+what is the best ubud hotels,what is the best ubud hotels,62,minilm_hdbscan,9,False,0.8815
+what is the best leash training,what is the best leash training,63,minilm_hdbscan,21,False,0.797
+top seo tools blogs,top seo tools blogs,64,minilm_hdbscan,15,False,0.5529
+what is the best student credit card,what is the best student credit card,65,minilm_hdbscan,18,False,0.9634
+best cloud crm for startups,best cloud crm for startups,66,minilm_hdbscan,19,False,0.7894
+what is the best credit card rewards,what is the best credit card rewards,67,minilm_hdbscan,18,False,0.6899
+running shoes for wide feet,running shoes for wide feet,68,minilm_hdbscan,6,False,0.6802
+what is the best keyword research,what is the best keyword research,69,minilm_hdbscan,13,False,1.0
+top business credit card beginners,top business credit card beginners,70,minilm_hdbscan,18,False,0.5801
+online shopping student credit card,online shopping student credit card,71,minilm_hdbscan,18,False,0.7975
+  vehicle  insurance policy tips ,vehicle insurance policy tips,72,minilm_hdbscan,4,False,0.657
+top vehicle insurance policy new cars,top vehicle insurance policy new cars,73,minilm_hdbscan,4,False,0.7239
+cheap car insurance tips,cheap car insurance tips,74,minilm_hdbscan,4,False,0.6969
+technical seo checklist review,technical seo checklist review,75,minilm_hdbscan,15,False,0.6179
+student laptop tips,student laptop tips,76,minilm_hdbscan,17,False,0.5839
+vehicle insurance policy review,vehicle insurance policy review,77,minilm_hdbscan,4,False,0.6673
+women racing flats,women racing flats,78,minilm_hdbscan,5,False,0.7363
+top vegan dinner budget,top vegan dinner budget,79,minilm_hdbscan,2,False,0.6813
+wide feet jogging sneakers,wide feet jogging sneakers,80,minilm_hdbscan,6,False,0.633
+top vehicle insurance policy families,top vehicle insurance policy families,81,minilm_hdbscan,4,False,0.669
+video editing gaming laptop,video editing gaming laptop,82,minilm_hdbscan,17,False,0.4596
+bali travel guide for couples,bali travel guide for couples,83,minilm_hdbscan,11,False,0.8193
+how to repair lightweight laptop,how to repair lightweight laptop,84,minilm_hdbscan,17,False,0.5308
+keyword research review,keyword research review,85,minilm_hdbscan,13,False,0.7905
+puppies leash traiinng,puppies leash traiinng,86,minilm_hdbscan,21,False,0.8739
+how to season vegan dessert,how to season vegan dessert,87,minilm_hdbscan,2,False,0.5241
+how to prepare vegan breakfast,how to prepare vegan breakfast,88,minilm_hdbscan,2,False,0.7016
+top comprehensive car insurance high risk drivers,top comprehensive car insurance high risk drivers,89,minilm_hdbscan,4,False,0.7055
+  student  laptop for video editing ,student laptop for video editing,90,minilm_hdbscan,17,False,0.5666
+bali villas for couples,bali villas for couples,91,minilm_hdbscan,11,False,0.5835
+travel credit card review,travel credit card review,92,minilm_hdbscan,18,False,0.4805
+top crm for small agency ppieline management,top crm for small agency ppieline management,93,minilm_hdbscan,-1,True,
+top local seo ecommerce,top local seo ecommerce,94,minilm_hdbscan,15,False,0.5371
+best lead tracking crm for startups,best lead tracking crm for startups,95,minilm_hdbscan,26,False,0.7599
+best trail running shoes for long distance,best trail running shoes for long distance,96,minilm_hdbscan,6,False,0.8013
+how to choose customer database software,how to choose customer database software,97,minilm_hdbscan,12,False,0.9157
+what is the best marathon shoes,what is the best marathon shoes,98,minilm_hdbscan,6,False,0.8729
+best low interest credit card for bad credit,best low interest credit card for bad credit,99,minilm_hdbscan,18,False,0.6876
+top bali beaches december,top bali beaches december,100,minilm_hdbscan,11,False,0.5788
+how to book bali itinerary,how to book bali itinerary,101,minilm_hdbscan,11,False,0.7844
+DOG TRAINING FOR PUPPIES,dog training for puppies,102,minilm_hdbscan,21,False,0.8595
+cheap lead tracking crm,cheap lead tracking crm,103,minilm_hdbscan,26,False,0.7765
+what is the best liability insurance for cars,what is the best liability insurance for cars,104,minilm_hdbscan,4,False,0.8426
+beginners cashback credit card,beginners cashback credit card,105,minilm_hdbscan,18,False,0.5406
+how to choose racing flats,how to choose racing flats,106,minilm_hdbscan,5,False,0.8034
+cashback credit card review,cashback credit card review,107,minilm_hdbscan,18,False,0.3861
+top comprehensive car insurance young drivers,top comprehensive car insurance young drivers,108,minilm_hdbscan,4,False,0.6626
+what is the best home workout,what is the best home workout,109,minilm_hdbscan,28,False,0.5627
+what is the best jogging sneakers,what is the best jogging sneakers,110,minilm_hdbscan,6,False,0.8354
+coding ultrabook,coding ultrabook,111,minilm_hdbscan,17,False,0.3245
+surfing bali travel guide,surfing bali travel guide,112,minilm_hdbscan,11,False,0.8492
+top ubud hotels surfing,top ubud hotels surfing,113,minilm_hdbscan,9,False,0.7261
+top hiit routine beginners,top hiit routine beginners,114,minilm_hdbscan,7,False,0.8708
+under 50000 rupees gaming laptop,under 50000 rupees gaming laptop,115,minilm_hdbscan,17,False,0.6188
+dog obedience classes review,dog obedience classes review,116,minilm_hdbscan,10,False,0.8805
+bali travel guide for december,bali travel guide for december,117,minilm_hdbscan,11,False,0.783
+top yoga at home abs,top yoga at home abs,118,minilm_hdbscan,23,False,0.812
+backlink building review,backlink building review,119,minilm_hdbscan,0,False,1.0
+what is the best bali itinerary,what is the best bali itinerary,120,minilm_hdbscan,11,False,0.7787
+how to cook vegan dinner,how to cook vegan dinner,121,minilm_hdbscan,2,False,0.6737
+how to warm up for resistance band exercises,how to warm up for resistance band exercises,122,minilm_hdbscan,20,False,0.679
+best cheap car insurance for low mileage,best cheap car insurance for low mileage,123,minilm_hdbscan,4,False,0.7663
+top business laptop office work,top business laptop office work,124,minilm_hdbscan,17,False,0.4585
+best ubud hotels for first timres,best ubud hotels for first timres,125,minilm_hdbscan,9,False,0.7978
+top auto insurance quotes classic cars,top auto insurance quotes classic cars,126,minilm_hdbscan,4,False,0.6771
+top backlink building 2026,top backlink building 2026,127,minilm_hdbscan,0,False,0.7447
+cheap bali travel guide,cheap bali travel guide,128,minilm_hdbscan,11,False,0.8408
+buy lead tracking crm online,buy lead tracking crm online,129,minilm_hdbscan,26,False,0.7009
+top veagn dessert weeknight,top veagn dessert weeknight,130,minilm_hdbscan,2,False,0.3474
+tofu recipes tips,tofu recipes tips,131,minilm_hdbscan,1,False,1.0
+customer database software review,customer database software review,132,minilm_hdbscan,12,False,0.7468
+cheap best credit card,cheap best credit card,133,minilm_hdbscan,18,False,0.7812
+student credit card for beginners,student credit card for beginners,134,minilm_hdbscan,18,False,0.8403
+what is the best home gym setup,what is the best home gym setup,135,minilm_hdbscan,27,False,0.8087
+what is the best things to do in bali,what is the best things to do in bali,136,minilm_hdbscan,11,False,0.7939
+bali itinerary tips,bali itinerary tips,137,minilm_hdbscan,11,False,0.8841
+2026 baclkink building,2026 baclkink building,138,minilm_hdbscan,0,False,0.2948
+how to cancel cashback credit card,how to cancel cashback credit card,139,minilm_hdbscan,18,False,0.3659
+how to integrate customer database software,how to integrate customer database software,140,minilm_hdbscan,12,False,0.7653
+at home crate training,at home crate training,141,minilm_hdbscan,14,False,0.8055
+real estate crm tool,real estate crm tool,142,minilm_hdbscan,25,False,0.7807
+buy laptop online,buy laptop online,143,minilm_hdbscan,17,False,0.6137
+small business keyword research,small business keyword research,144,minilm_hdbscan,13,False,0.6466
+cheap seo tools,cheap seo tools,145,minilm_hdbscan,15,False,0.5074
+30 minutes no equipment workout,30 minutes no equipment workout,146,minilm_hdbscan,-1,True,
+how to train puppy training tips,how to train puppy training tips,147,minilm_hdbscan,21,False,0.7293
+technical seo checklist for startups,technical seo checklist for startups,148,minilm_hdbscan,15,False,0.6024
+what is the best ubud htoels,what is the best ubud htoels,149,minilm_hdbscan,-1,True,
+leash training tips,leash training tips,150,minilm_hdbscan,21,False,0.8322
+top laptop with long battery life programming,top laptop with long battery life programming,151,minilm_hdbscan,17,False,0.5291
+labradors positive reinforcement dog training,labradors positive reinforcement dog training,152,minilm_hdbscan,22,False,0.8134
+cheap sales crm,cheap sales crm,28,minilm_hdbscan,-1,True,
+crate training for aggressive dogs,crate training for aggressive dogs,153,minilm_hdbscan,14,False,0.7569
+cheap auto insurance quotes,cheap auto insurance quotes,154,minilm_hdbscan,4,False,0.6126
+beginners leash training,beginners leash training,155,minilm_hdbscan,21,False,0.82
+home gym setup tips,home gym setup tips,156,minilm_hdbscan,27,False,0.7432
+bodyweight exercises review,bodyweight exercises review,157,minilm_hdbscan,-1,True,
+how to book ubud hotels,how to book ubud hotels,158,minilm_hdbscan,9,False,0.6803
+dog training for puppies,dog training for puppies,102,minilm_hdbscan,21,False,0.8595
+best business credit card for bad credit,best business credit card for bad credit,159,minilm_hdbscan,18,False,0.6853
+cheap house training a puppy,cheap house training a puppy,160,minilm_hdbscan,21,False,0.6312
+how to size jogging sneakers,how to size jogging sneakers,161,minilm_hdbscan,6,False,0.5059
+buy local seo online,buy local seo online,162,minilm_hdbscan,15,False,0.386
+  positive  reinforcement dog training tips ,positive reinforcement dog training tips,163,minilm_hdbscan,22,False,0.9231
+families bali honeymoon packages,families bali honeymoon packages,164,minilm_hdbscan,11,False,0.5835
+cheap car insurance review,cheap car insurance review,165,minilm_hdbscan,4,False,0.7188
+top lightweight laptop college,top lightweight laptop college,166,minilm_hdbscan,17,False,0.5905
+backlink building for startups,backlink building for startups,167,minilm_hdbscan,0,False,0.7482
+top content marketing strategy agencies,top content marketing strategy agencies,168,minilm_hdbscan,16,False,0.7161
+top vegan meal prep one pot,top vegan meal prep one pot,169,minilm_hdbscan,2,False,0.8254
+sales crm review,sales crm review,170,minilm_hdbscan,25,False,0.6018
+BEST RESISTANCE BAND EXERCISES FOR BACK PAIN,best resistance band exercises for back pain,171,minilm_hdbscan,20,False,0.7457
+DOG OBEDIENCE CLASSES TIPS,dog obedience classes tips,172,minilm_hdbscan,10,False,0.8861
+best crm tool for freelancers,best crm tool for freelancers,173,minilm_hdbscan,25,False,0.8272
+insurance,insurance,174,minilm_hdbscan,4,False,0.5998
+top lightweight laptop streaming,top lightweight laptop streaming,175,minilm_hdbscan,17,False,0.515
+top student laptop coding,top student laptop coding,176,minilm_hdbscan,17,False,0.5206
+python,python,177,minilm_hdbscan,-1,True,
+house training a puppy tips,house training a puppy tips,178,minilm_hdbscan,21,False,0.7178
+top vegan dinner beginners,top vegan dinner beginners,179,minilm_hdbscan,2,False,0.7398
+buy auto insurance quotes online,buy auto insurance quotes online,180,minilm_hdbscan,4,False,0.545
+top crm for small agency pipeline management,top crm for small agency pipeline management,181,minilm_hdbscan,26,False,0.7262
+buy crate training online,buy crate training online,182,minilm_hdbscan,14,False,0.811
+best dog training for puppies,best dog training for puppies,183,minilm_hdbscan,21,False,0.8053
+best credit card review,best credit card review,184,minilm_hdbscan,18,False,0.6566
+best credit card for students,best credit card for students,185,minilm_hdbscan,18,False,1.0
+december bali honeymoon packages,december bali honeymoon packages,186,minilm_hdbscan,11,False,0.5707
+top carbon plate shoes plantar fasciitis,top carbon plate shoes plantar fasciitis,187,minilm_hdbscan,6,False,0.3461
+best low interest credit card for students,best low interest credit card for students,188,minilm_hdbscan,18,False,0.8966
+puppies leash training,puppies leash training,189,minilm_hdbscan,21,False,1.0
+how to apply for best credit card,how to apply for best credit card,190,minilm_hdbscan,18,False,0.6482
+how to correct stop dog barking,how to correct stop dog barking,191,minilm_hdbscan,8,False,0.7624
+  crm  software tips ,crm software tips,192,minilm_hdbscan,25,False,0.7157
+buy jogging sneakers online,buy jogging sneakers online,193,minilm_hdbscan,6,False,0.5672
+top best credit card online shopping,top best credit card online shopping,194,minilm_hdbscan,18,False,0.7105
+dog training for small breeds,dog training for small breeds,195,minilm_hdbscan,21,False,0.6752
+how to plan bali travel guide,how to plan bali travel guide,196,minilm_hdbscan,11,False,0.8883
+vegan breakfast tips,vegan breakfast tips,197,minilm_hdbscan,2,False,0.7081
+how to measure on page seo,how to measure on page seo,198,minilm_hdbscan,15,False,0.4871
+how to size marathon shoes,how to size marathon shoes,199,minilm_hdbscan,6,False,0.5825
+credit card rewards review,credit card rewards review,200,minilm_hdbscan,18,False,0.4858
+resistance band exercises for weight loss,resistance band exercises for weight loss,201,minilm_hdbscan,20,False,1.0
+best customer database software for email marketing,best customer database software for email marketing,202,minilm_hdbscan,12,False,0.8582
+what is the best car insurance renewal,what is the best car insurance renewal,203,minilm_hdbscan,4,False,0.8178
+buy cashback credit card online,buy cashback credit card online,204,minilm_hdbscan,18,False,0.458
+how to start house training a puppy,how to start house training a puppy,205,minilm_hdbscan,21,False,0.6523
+free crm for real estate,free crm for real estate,206,minilm_hdbscan,25,False,0.6337
+cheap backlink building,cheap backlink building,207,minilm_hdbscan,0,False,0.839
+jogging sneakers for men,jogging sneakers for men,208,minilm_hdbscan,6,False,0.6034
+home workout tips,home workout tips,209,minilm_hdbscan,28,False,0.5379
+best things to do in bali for first timers,best things to do in bali for first timers,210,minilm_hdbscan,11,False,0.7928
+student laptop for video editing,student laptop for video editing,90,minilm_hdbscan,17,False,0.5666
+cheap yoga at home,cheap yoga at home,211,minilm_hdbscan,23,False,0.8194
+BEST UBUD HOTELS FOR FIRST TIMERS,best ubud hotels for first timers,212,minilm_hdbscan,9,False,1.0
+top vehicle insurance policy students,top vehicle insurance policy students,213,minilm_hdbscan,4,False,0.6174
+liability insurance for cars review,liability insurance for cars review,214,minilm_hdbscan,4,False,0.6127
+how to choose trail running shoes,how to choose trail running shoes,215,minilm_hdbscan,6,False,0.7905
+buy plant based meals online,buy plant based meals online,216,minilm_hdbscan,3,False,0.8269
+top carbon plate shoes wide feet,top carbon plate shoes wide feet,217,minilm_hdbscan,6,False,0.4227
+best cloud crm for real estate,best cloud crm for real estate,218,minilm_hdbscan,19,False,0.7482
+best full coverage insurance for low mileage,best full coverage insurance for low mileage,219,minilm_hdbscan,4,False,0.7167
+comprehensive car insurance review,comprehensive car insurance review,220,minilm_hdbscan,4,False,0.6829
+what is the best vegan meal prep,what is the best vegan meal prep,221,minilm_hdbscan,2,False,1.0
+top vegan protein snacks budget,top vegan protein snacks budget,222,minilm_hdbscan,2,False,0.5953
+how to automate seo tools,how to automate seo tools,223,minilm_hdbscan,15,False,0.494
+positive reinforcement dog training tips,positive reinforcement dog training tips,163,minilm_hdbscan,22,False,0.9231
+  30  minutes bodyweight exercises ,30 minutes bodyweight exercises,224,minilm_hdbscan,-1,True,
+top liability insurance for cars students,top liability insurance for cars students,225,minilm_hdbscan,4,False,0.6082
+how to measure seo tools,how to measure seo tools,226,minilm_hdbscan,15,False,0.5765
+buy student laptop online,buy student laptop online,227,minilm_hdbscan,17,False,0.5741
+top plant baesd meals gluten free,top plant baesd meals gluten free,228,minilm_hdbscan,2,False,0.3252
+buy gaming laptop olnine,buy gaming laptop olnine,229,minilm_hdbscan,17,False,0.5111
+buy credit card online,buy credit card online,230,minilm_hdbscan,18,False,0.5697
+best ultrabook for video editing,best ultrabook for video editing,231,minilm_hdbscan,17,False,0.3911
+bali visa tips,bali visa tips,232,minilm_hdbscan,11,False,0.7938
+top plant bsaed meals beginners,top plant bsaed meals beginners,233,minilm_hdbscan,3,False,0.7515
+budget notebook computer review,budget notebook computer review,234,minilm_hdbscan,17,False,0.645
+top marathon shoes rainy weather,top marathon shoes rainy weather,235,minilm_hdbscan,6,False,0.5341
+top lead tracking crm pipeline management,top lead tracking crm pipeline management,236,minilm_hdbscan,26,False,1.0
+cheap car insurance renewal,cheap car insurance renewal,237,minilm_hdbscan,4,False,0.6506
+best backlink building for free,best backlink building for free,238,minilm_hdbscan,0,False,0.8057
+lead tracking crm for freelancers,lead tracking crm for freelancers,239,minilm_hdbscan,26,False,0.7034
+credit card rewards reveiw,credit card rewards reveiw,240,minilm_hdbscan,18,False,0.4568
+airline miles credit card rewards,airline miles credit card rewards,241,minilm_hdbscan,18,False,0.3869
+car insurance tips,car insurance tips,242,minilm_hdbscan,4,False,0.6788
+marathon shoes for women,marathon shoes for women,243,minilm_hdbscan,6,False,0.6856
+how to compare auto insurance quotes,how to compare auto insurance quotes,244,minilm_hdbscan,4,False,0.5155
+what is the best business laptop,what is the best business laptop,245,minilm_hdbscan,17,False,0.6972
+30 minutes bodyweight exercises,30 minutes bodyweight exercises,224,minilm_hdbscan,-1,True,
+adult dogs crate training,adult dogs crate training,246,minilm_hdbscan,14,False,0.7823
+house training a puppy for adult dogs,house training a puppy for adult dogs,247,minilm_hdbscan,21,False,0.6879
+what is the best car insurance renewal,what is the best car insurance renewal,203,minilm_hdbscan,4,False,0.8178
+top student laptop coding,top student laptop coding,176,minilm_hdbscan,17,False,0.5206
+top stop dog barking puppies,top stop dog barking puppies,248,minilm_hdbscan,8,False,1.0
+best trail running shoes for men,best trail running shoes for men,249,minilm_hdbscan,6,False,0.7889
+best seo tools for blogs,best seo tools for blogs,250,minilm_hdbscan,15,False,0.4751
+best car insurance renewal for students,best car insurance renewal for students,251,minilm_hdbscan,4,False,0.6897
+best dog obedeince classes for rescue dogs,best dog obedeince classes for rescue dogs,252,minilm_hdbscan,10,False,0.7134
+free crm for email marketing,free crm for email marketing,253,minilm_hdbscan,-1,True,
+couples bali villas,couples bali villas,254,minilm_hdbscan,11,False,0.5601
+best vehicle insurance policy for seniors,best vehicle insurance policy for seniors,255,minilm_hdbscan,4,False,0.7317
+bali visa review,bali visa review,256,minilm_hdbscan,11,False,0.6771
+top carbon plate shoes men,top carbon plate shoes men,257,minilm_hdbscan,6,False,0.4221
+how to plan no equipment workout,how to plan no equipment workout,258,minilm_hdbscan,28,False,0.7762
+best ubud hotels for monsoon season,best ubud hotels for monsoon season,259,minilm_hdbscan,9,False,0.7621
+cheap technical seo checklist,cheap technical seo checklist,260,minilm_hdbscan,15,False,0.5955
+HOW TO PLAN NO EQUIPMENT WORKOUT,how to plan no equipment workout,258,minilm_hdbscan,28,False,0.7762
+jaguar,jaguar,261,minilm_hdbscan,-1,True,
+cheap leash training,cheap leash training,262,minilm_hdbscan,21,False,0.7935
+how to integrate crm software,how to integrate crm software,59,minilm_hdbscan,-1,True,
+flat feet trail running shoes,flat feet trail running shoes,263,minilm_hdbscan,6,False,0.675
+TRAIL RUNNING SHOES FOR PLANTAR FASCIITIS,trail running shoes for plantar fasciitis,264,minilm_hdbscan,6,False,0.6131
+how to start dumbbell workout,how to start dumbbell workout,265,minilm_hdbscan,24,False,0.8359
+positive reinforcement dog training review,positive reinforcement dog training review,266,minilm_hdbscan,22,False,1.0
+  best  car insurance for low mileage ,best car insurance for low mileage,267,minilm_hdbscan,4,False,0.7888
+vegan breakfast for weeknight,vegan breakfast for weeknight,268,minilm_hdbscan,2,False,0.6432
+what is the best crate training,what is the best crate training,269,minilm_hdbscan,14,False,0.8528
+comprehensive car insurance for seniors,comprehensive car insurance for seniors,270,minilm_hdbscan,4,False,0.652
+abs bodyweight exercises,abs bodyweight exercises,271,minilm_hdbscan,-1,True,
+best vegan recipes for budget,best vegan recipes for budget,272,minilm_hdbscan,2,False,0.7591
+VIDEO EDITING ULTRABOOK,video editing ultrabook,273,minilm_hdbscan,17,False,0.2651
+resistance band exercises tips,resistance band exercises tips,274,minilm_hdbscan,20,False,0.8864
+buy minimalist runnnig shoes online,buy minimalist runnnig shoes online,275,minilm_hdbscan,6,False,0.6128
+how to upgrade student laptop,how to upgrade student laptop,276,minilm_hdbscan,17,False,0.5114
+what is the best vehicle insurance policy,what is the best vehicle insurance policy,277,minilm_hdbscan,4,False,0.892
+top dog obedience classes aggressive dogs,top dog obedience classes aggressive dogs,278,minilm_hdbscan,10,False,0.8417
+buy sales crm online,buy sales crm online,279,minilm_hdbscan,25,False,0.5832
+hiit routine for weight loss,hiit routine for weight loss,280,minilm_hdbscan,7,False,0.8013
+TOP BEST CREDIT CARD ONLINE SHOPPING,top best credit card online shopping,194,minilm_hdbscan,18,False,0.7105
+best cheap car insurance for classic cars,best cheap car insurance for classic cars,281,minilm_hdbscan,4,False,0.7839
+cheap content marketing strategy,cheap content marketing strategy,282,minilm_hdbscan,16,False,0.7034
+stop dog barking tips,stop dog barking tips,283,minilm_hdbscan,8,False,0.7757
+cheap full coverage insurance,cheap full coverage insurance,284,minilm_hdbscan,4,False,0.5778
+stability running shoes for long distance,stability running shoes for long distance,285,minilm_hdbscan,6,False,0.688
+cheap car insurance for low mileage,cheap car insurance for low mileage,286,minilm_hdbscan,4,False,0.6833
+how to track resistance band exercises,how to track resistance band exercises,287,minilm_hdbscan,20,False,0.7475
+top crm tool pipeline maangement,top crm tool pipeline maangement,288,minilm_hdbscan,26,False,0.7343
+  top  bali honeymoon packages budget ,top bali honeymoon packages budget,289,minilm_hdbscan,11,False,0.5951
+top stop dog barking aggressive dogs,top stop dog barking aggressive dogs,290,minilm_hdbscan,8,False,0.9217
+how to correct dog training,how to correct dog training,291,minilm_hdbscan,-1,True,
+technical seo checklist tips,technical seo checklist tips,292,minilm_hdbscan,15,False,0.6378
+best vehicle insurance policy for classic cars,best vehicle insurance policy for classic cars,293,minilm_hdbscan,4,False,0.7751
+what is the best vegan dinner,what is the best vegan dinner,294,minilm_hdbscan,2,False,0.8178
+bali honeymoon packages tips,bali honeymoon packages tips,295,minilm_hdbscan,11,False,0.6993
+best comprehensive car insurance for seniors,best comprehensive car insurance for seniors,296,minilm_hdbscan,4,False,0.7692
+what is the best seo audit,what is the best seo audit,297,minilm_hdbscan,15,False,0.8599
+startups free crm,startups free crm,298,minilm_hdbscan,-1,True,
+lounge access best credit card,lounge access best credit card,299,minilm_hdbscan,18,False,0.6407
+best carbon plate shoes for long distance,best carbon plate shoes for long distance,300,minilm_hdbscan,6,False,0.5897
+amazon,amazon,301,minilm_hdbscan,-1,True,
+buy sales crm online,buy sales crm online,279,minilm_hdbscan,25,False,0.5832
+buy stability running shoes online,buy stability running shoes online,302,minilm_hdbscan,6,False,0.646
+bali travel guide review,bali travel guide review,303,minilm_hdbscan,11,False,0.938
+leash training for rescue dogs,leash training for rescue dogs,304,minilm_hdbscan,21,False,0.8393
+top seo tools 2026,top seo tools 2026,305,minilm_hdbscan,15,False,0.5944
+what is the best best credit card,what is the best best credit card,306,minilm_hdbscan,18,False,0.7866
+how to correct crate training,how to correct crate training,307,minilm_hdbscan,14,False,0.8498
+how to clean racing flats,how to clean racing flats,308,minilm_hdbscan,5,False,0.6703
+BUY TECHNICAL SEO CHECKLIST ONLINE,buy technical seo checklist online,309,minilm_hdbscan,15,False,0.5446
+WHAT IS THE BEST JOGGING SNEAKERS,what is the best jogging sneakers,110,minilm_hdbscan,6,False,0.8354
+vegan meal prep for kids,vegan meal prep for kids,310,minilm_hdbscan,2,False,0.8061
+  customer  database software review ,customer database software review,132,minilm_hdbscan,12,False,0.7468
+laptop with long battery life review,laptop with long battery life review,311,minilm_hdbscan,17,False,0.4969
+how to migrate to customer database software,how to migrate to customer database software,312,minilm_hdbscan,12,False,0.685
+top yoga at home beginners,top yoga at home beginners,313,minilm_hdbscan,23,False,1.0
+cheap customer database software,cheap customer database software,314,minilm_hdbscan,12,False,0.8898
+best home gym setup for beginners,best home gym setup for beginners,315,minilm_hdbscan,27,False,0.7751
+best resistance band exercises for back pain,best resistance band exercises for back pain,171,minilm_hdbscan,20,False,0.7457
+buy car insurance renewal online,buy car insurance renewal online,316,minilm_hdbscan,4,False,0.5222
+cheap running shoes,cheap running shoes,317,minilm_hdbscan,6,False,0.8182
+dumbbell workout review,dumbbell workout review,318,minilm_hdbscan,24,False,0.8522
+budget things to do in bali,budget things to do in bali,319,minilm_hdbscan,11,False,0.7392
+vegan recipes review,vegan recipes review,320,minilm_hdbscan,2,False,0.6836
+dumbbell workout tips,dumbbell workout tips,321,minilm_hdbscan,24,False,1.0
+cheap vegan dessert,cheap vegan dessert,322,minilm_hdbscan,2,False,0.6381
+freelancers free crm,freelancers free crm,323,minilm_hdbscan,25,False,0.6475
+buy technical seo checklist online,buy technical seo checklist online,309,minilm_hdbscan,15,False,0.5446
+best dog obedience classes for aggressive dogs,best dog obedience classes for aggressive dogs,324,minilm_hdbscan,10,False,0.9314
+surfing bali itinerary,surfing bali itinerary,325,minilm_hdbscan,11,False,0.7554
+buy dumbbell workout online,buy dumbbell workout online,326,minilm_hdbscan,24,False,0.8154
+cheap bali visa,cheap bali visa,327,minilm_hdbscan,11,False,0.6029
+marathon shoes review,marathon shoes review,328,minilm_hdbscan,6,False,0.716
+video editing lightweight laptop,video editing lightweight laptop,329,minilm_hdbscan,17,False,0.5032
+low interest credit card for lounge access,low interest credit card for lounge access,330,minilm_hdbscan,18,False,0.5483
+how to bake vegan dinner,how to bake vegan dinner,331,minilm_hdbscan,2,False,0.6209
+7 days bali visa,7 days bali visa,332,minilm_hdbscan,11,False,0.549
+how to make vegan meal prep,how to make vegan meal prep,333,minilm_hdbscan,2,False,0.8377
+what is the best minimalist running shoes,what is the best minimalist running shoes,334,minilm_hdbscan,6,False,0.808
+crm tool for small business,crm tool for small business,335,minilm_hdbscan,25,False,1.0
+buy vegan protein snacks online,buy vegan protein snacks online,336,minilm_hdbscan,2,False,0.5786
+cheap home workout,cheap home workout,337,minilm_hdbscan,28,False,0.7877
+monsoon season things to do in bali,monsoon season things to do in bali,338,minilm_hdbscan,11,False,0.6891
+video editing budget notebook computer,video editing budget notebook computer,339,minilm_hdbscan,17,False,0.5412
+college lightweight laptop,college lightweight laptop,340,minilm_hdbscan,17,False,0.6854
+marathon shoes tips,marathon shoes tips,341,minilm_hdbscan,6,False,0.6929
+what is the best bali beaches,what is the best bali beaches,342,minilm_hdbscan,11,False,0.7077
+best dog obedience classes for rescue dogs,best dog obedience classes for rescue dogs,343,minilm_hdbscan,10,False,0.9235
+beginners plant based meals,beginners plant based meals,344,minilm_hdbscan,3,False,1.0
+home gym setup review,home gym setup review,345,minilm_hdbscan,27,False,0.7287
+weeknight tofu recipes,weeknight tofu recipes,346,minilm_hdbscan,1,False,0.8026
+carbon plate shoes for long distance,carbon plate shoes for long distance,347,minilm_hdbscan,6,False,0.4543
+how to choose lead tracking crm,how to choose lead tracking crm,348,minilm_hdbscan,26,False,0.7832
+top tofu recipes one pot,top tofu recipes one pot,349,minilm_hdbscan,1,False,0.7475
+how to buy vehicle insurance policy,how to buy vehicle insurance policy,350,minilm_hdbscan,4,False,0.6396
+what is the best tofu recipes,what is the best tofu recipes,351,minilm_hdbscan,1,False,0.9179
+student laptop review,student laptop review,352,minilm_hdbscan,17,False,0.5544
+HOW TO PREPARE PLANT BASED MEALS,how to prepare plant based meals,353,minilm_hdbscan,3,False,0.8549
+best vehicle insurance policy for classic cars,best vehicle insurance policy for classic cars,293,minilm_hdbscan,4,False,0.7751
+WHAT IS THE BEST DUMBBELL WORKOUT,what is the best dumbbell workout,354,minilm_hdbscan,24,False,0.87
+BEGINNERS CASHBACK CREDIT CARD,beginners cashback credit card,105,minilm_hdbscan,18,False,0.5406
+what is the best bali villas,what is the best bali villas,355,minilm_hdbscan,11,False,0.6487
+student credit card tips,student credit card tips,356,minilm_hdbscan,18,False,0.7539
+first timers ubud hotels,first timers ubud hotels,357,minilm_hdbscan,9,False,0.9171
+CRATE TRAINING TIPS,crate training tips,358,minilm_hdbscan,14,False,0.9153
+what is the best business credit card,what is the best business credit card,359,minilm_hdbscan,18,False,0.7295
+buy business credit card online,buy business credit card online,360,minilm_hdbscan,18,False,0.4746
+top seo audit startups,top seo audit startups,361,minilm_hdbscan,15,False,0.846
+buy puppy training tips online,buy puppy training tips online,362,minilm_hdbscan,21,False,0.6755
+top vgean meal prep one pot,top vgean meal prep one pot,363,minilm_hdbscan,2,False,0.5089
+  buy  local seo online ,buy local seo online,162,minilm_hdbscan,15,False,0.386
+small business crm for small agency,small business crm for small agency,364,minilm_hdbscan,25,False,0.8408
+top vehicle insurance policy low mileage,top vehicle insurance policy low mileage,365,minilm_hdbscan,4,False,0.6561
+BEGINNERS LEASH TRAINING,beginners leash training,155,minilm_hdbscan,21,False,0.82
+families vehicle insurance policy,families vehicle insurance policy,366,minilm_hdbscan,4,False,0.6192
+buy low interest credit card online,buy low interest credit card online,367,minilm_hdbscan,18,False,0.5165
+low interest credit card tips,low interest credit card tips,368,minilm_hdbscan,18,False,0.4684
+beginners crate training,beginners crate training,369,minilm_hdbscan,14,False,1.0
+how to choose lightweight laptop,how to choose lightweight laptop,370,minilm_hdbscan,17,False,0.6483
+buy stop dog barking online,buy stop dog barking online,371,minilm_hdbscan,8,False,0.7042
+top credit card online shopping,top credit card online shopping,7,minilm_hdbscan,18,False,0.6566
+student laptop for streaming,student laptop for streaming,372,minilm_hdbscan,17,False,0.5809
+vegan breakfast review,vegan breakfast review,373,minilm_hdbscan,2,False,0.6952
+what is the best hiit routine,what is the best hiit routine,374,minilm_hdbscan,7,False,1.0
+how to make tofu recipes,how to make tofu recipes,375,minilm_hdbscan,1,False,0.8934
+no equipment workout for small space,no equipment workout for small space,376,minilm_hdbscan,28,False,0.77
+mercury,mercury,377,minilm_hdbscan,-1,True,
+top travel credit card bad credit,top travel credit card bad credit,378,minilm_hdbscan,18,False,0.5371
+how to choose racing flats,how to choose racing flats,106,minilm_hdbscan,5,False,0.8034
+business credit card review,business credit card review,379,minilm_hdbscan,18,False,0.485
+tcehnical seo checklist tips,tcehnical seo checklist tips,380,minilm_hdbscan,15,False,0.6171
+top vegan dinner gluten free,top vegan dinner gluten free,381,minilm_hdbscan,2,False,0.5806
+best low interest credit card for students,best low interest credit card for students,188,minilm_hdbscan,18,False,0.8966
+bank,bank,382,minilm_hdbscan,-1,True,
+what is the best crm software,what is the best crm software,383,minilm_hdbscan,25,False,0.7696
+buy comprehensive car insurance online,buy comprehensive car insurance online,384,minilm_hdbscan,4,False,0.6264
+SALES CRM TIPS,sales crm tips,385,minilm_hdbscan,25,False,0.6336
+vehicle insurance policy tips,vehicle insurance policy tips,72,minilm_hdbscan,4,False,0.657
+best bali visa for first timers,best bali visa for first timers,386,minilm_hdbscan,11,False,0.7035
+comprehensive car insurance tips,comprehensive car insurance tips,387,minilm_hdbscan,4,False,0.676
+home gym steup tips,home gym steup tips,388,minilm_hdbscan,-1,True,
+  what  is the best trail running shoes ,what is the best trail running shoes,389,minilm_hdbscan,6,False,0.8906
+house training a puppy for aggressive dogs,house training a puppy for aggressive dogs,390,minilm_hdbscan,21,False,0.674
+how to explore ubud hotels,how to explore ubud hotels,391,minilm_hdbscan,9,False,0.7362
+what is the best cheap car insurance,what is the best cheap car insurance,392,minilm_hdbscan,4,False,0.9146
+bodyweight exercises tips,bodyweight exercises tips,393,minilm_hdbscan,-1,True,
+top carbon plate shoes plantar fasciitis,top carbon plate shoes plantar fasciitis,187,minilm_hdbscan,6,False,0.3461
+dog training review,dog training review,394,minilm_hdbscan,22,False,0.8252
+best house training a puppy for puppies,best house training a puppy for puppies,395,minilm_hdbscan,21,False,0.7166
+how to lace trail running shoes,how to lace trail running shoes,396,minilm_hdbscan,6,False,0.5663
+best crate training for beginners,best crate training for beginners,397,minilm_hdbscan,14,False,0.9446
+best car insurance for low mileage,best car insurance for low mileage,267,minilm_hdbscan,4,False,0.7888
+how to train puppy training tips,how to train puppy training tips,147,minilm_hdbscan,21,False,0.7293
+seo audit for 2026,seo audit for 2026,398,minilm_hdbscan,15,False,0.7475
+  how  to explore things to do in bali ,how to explore things to do in bali,49,minilm_hdbscan,11,False,0.8285
+cheap cluod crm,cheap cluod crm,399,minilm_hdbscan,-1,True,
+how to audit local seo,how to audit local seo,400,minilm_hdbscan,15,False,0.637
+budget notebook computer tips,budget notebook computer tips,401,minilm_hdbscan,17,False,0.6804
+surfing bali itinerary,surfing bali itinerary,325,minilm_hdbscan,11,False,0.7554
+TOP SEO AUDIT BEGINNERS,top seo audit beginners,402,minilm_hdbscan,15,False,1.0
+racing flats tips,racing flats tips,403,minilm_hdbscan,5,False,1.0
+bodyweight exercises tips,bodyweight exercises tips,393,minilm_hdbscan,-1,True,
+stability running shoes review,stability running shoes review,404,minilm_hdbscan,6,False,0.6852
+how to learn content marketing strategy,how to learn content marketing strategy,405,minilm_hdbscan,16,False,0.7739
+quick plant based meals,quick plant based meals,406,minilm_hdbscan,3,False,0.8608
+cheap no equipment workout,cheap no equipment workout,407,minilm_hdbscan,28,False,1.0
+cashback credit card tips,cashback credit card tips,408,minilm_hdbscan,18,False,0.3541
+top minimalist running shoes flat feet,top minimalist running shoes flat feet,409,minilm_hdbscan,6,False,0.6273
+what is the best dumbbell workout,what is the best dumbbell workout,354,minilm_hdbscan,24,False,0.87
+surfnig ubud hotels,surfnig ubud hotels,410,minilm_hdbscan,9,False,0.7155
+stop dog barking for puppies,stop dog barking for puppies,411,minilm_hdbscan,8,False,0.8424
+cheap cheap car insurance,cheap cheap car insurance,412,minilm_hdbscan,4,False,0.7387
+TOFU RECIPES REVIEW,tofu recipes review,413,minilm_hdbscan,1,False,0.8999
+local seo tips,local seo tips,414,minilm_hdbscan,15,False,0.4264
+sales crm tips,sales crm tips,385,minilm_hdbscan,25,False,0.6336
+buy customer database software online,buy customer database software online,415,minilm_hdbscan,12,False,0.7798
+best vegan meal prep for weeknight,best vegan meal prep for weeknight,416,minilm_hdbscan,2,False,0.8612
+best keyword research for agencies,best keyword research for agencies,417,minilm_hdbscan,13,False,0.7583
+seo audit review,seo audit review,418,minilm_hdbscan,15,False,0.7958
+minimalist running shoes tips,minimalist running shoes tips,419,minilm_hdbscan,6,False,0.7013
+BEST LEAD TRACKING CRM FOR STARTUPS,best lead tracking crm for startups,95,minilm_hdbscan,26,False,0.7599
+best customer database software for freelancers,best customer database software for freelancers,420,minilm_hdbscan,12,False,0.8867
+cheap crm software,cheap crm software,421,minilm_hdbscan,25,False,0.7697
+buy seo tools online,buy seo tools online,422,minilm_hdbscan,15,False,0.5476
+cheap seo tools,cheap seo tools,145,minilm_hdbscan,15,False,0.5074
+what is the best running shoes,what is the best running shoes,423,minilm_hdbscan,6,False,1.0
+cheap gaming laptop,cheap gaming laptop,424,minilm_hdbscan,17,False,0.8232
+what is the best carbon plate shoes,what is the best carbon plate shoes,425,minilm_hdbscan,6,False,0.6286
+VEGAN PROTEIN SNACKS REVIEW,vegan protein snacks review,426,minilm_hdbscan,2,False,0.5902
+30 minutes hiit routine,30 minutes hiit routine,427,minilm_hdbscan,7,False,0.8249
+top ubud hotels monsoon season,top ubud hotels monsoon season,428,minilm_hdbscan,9,False,0.6585
+back pain bodyweight exercises,back pain bodyweight exercises,18,minilm_hdbscan,27,False,0.702
+what is the best dog obedience classes,what is the best dog obedience classes,429,minilm_hdbscan,10,False,1.0
+top seo audit agencies,top seo audit agencies,430,minilm_hdbscan,15,False,0.8241
+best travel credit card for no annual fee,best travel credit card for no annual fee,431,minilm_hdbscan,18,False,0.6668
+cheap trail running shoes,cheap trail running shoes,432,minilm_hdbscan,6,False,0.7498
+free crm tips,free crm tips,433,minilm_hdbscan,25,False,0.6349
+HOW TO BOOK BALI ITINERARY,how to book bali itinerary,101,minilm_hdbscan,11,False,0.7844
+cheap business credit card,cheap business credit card,434,minilm_hdbscan,18,False,0.639
+  best  jogging sneakers for wide feet ,best jogging sneakers for wide feet,435,minilm_hdbscan,6,False,0.752
+bali villas review,bali villas review,436,minilm_hdbscan,11,False,0.6676
+jogging sneakers for long distance,jogging sneakers for long distance,437,minilm_hdbscan,6,False,0.6346
+top gaming laptop programming,top gaming laptop programming,438,minilm_hdbscan,17,False,0.4553
+how to switch car insurance,how to switch car insurance,439,minilm_hdbscan,4,False,0.6363
+buy liability insurance for cars online,buy liability insurance for cars online,440,minilm_hdbscan,4,False,0.5971
+how to prepare plant based meals,how to prepare plant based meals,353,minilm_hdbscan,3,False,0.8549
+first timers bali beaches,first timers bali beaches,441,minilm_hdbscan,11,False,0.7335
+what is the best positive reinforcement dog training,what is the best positive reinforcement dog training,442,minilm_hdbscan,22,False,0.8941
+cloud crm review,cloud crm review,443,minilm_hdbscan,19,False,0.8885
+mouse,mouse,444,minilm_hdbscan,-1,True,
+top seo audit beginners,top seo audit beginners,402,minilm_hdbscan,15,False,1.0
+seo tools review,seo tools review,445,minilm_hdbscan,15,False,0.6284
+what is the best crm tool,what is the best crm tool,446,minilm_hdbscan,25,False,0.8322
+how to clean stability running shoes,how to clean stability running shoes,447,minilm_hdbscan,6,False,0.564
+how to plan bodyweight exercises,how to plan bodyweight exercises,448,minilm_hdbscan,-1,True,
+buy bali visa online,buy bali visa online,449,minilm_hdbscan,11,False,0.5541
+cheap things to do in bali,cheap things to do in bali,450,minilm_hdbscan,11,False,0.711
+on page seo tips,on page seo tips,451,minilm_hdbscan,15,False,0.4852
+vegan dessert review,vegan dessert review,452,minilm_hdbscan,2,False,0.638
+best ubud hotels for first timers,best ubud hotels for first timers,212,minilm_hdbscan,9,False,1.0
+content marketing strategy review,content marketing strategy review,453,minilm_hdbscan,16,False,1.0
+crm tool for freelancers,crm tool for freelancers,454,minilm_hdbscan,25,False,0.8442
+top trail running shoes beginners,top trail running shoes beginners,455,minilm_hdbscan,6,False,0.7129
+TOP VEHICLE INSURANCE POLICY STUDENTS,top vehicle insurance policy students,213,minilm_hdbscan,4,False,0.6174
+top on page seo agencies,top on page seo agencies,456,minilm_hdbscan,15,False,0.5611
+top plant based meals beginners,top plant based meals beginners,457,minilm_hdbscan,3,False,0.9274
+low interest credit card review,low interest credit card review,458,minilm_hdbscan,18,False,0.4682
+vegan dinner review,vegan dinner review,459,minilm_hdbscan,2,False,0.7019
+buy gaming laptop online,buy gaming laptop online,460,minilm_hdbscan,17,False,0.4906
+top low interest credit card fuel,top low interest credit card fuel,461,minilm_hdbscan,18,False,0.5116
+backlink building for small business,backlink building for small business,462,minilm_hdbscan,0,False,0.7843
+top house training a puppy at home,top house training a puppy at home,463,minilm_hdbscan,21,False,0.6355
+TOP PLANT BASED MEALS BEGINNERS,top plant based meals beginners,457,minilm_hdbscan,3,False,0.9274
+video editing ultrabook,video editing ultrabook,273,minilm_hdbscan,17,False,0.2651
+student credit card review,student credit card review,464,minilm_hdbscan,18,False,0.7635
+top auto insurance quotes young drivers,top auto insurance quotes young drivers,53,minilm_hdbscan,4,False,0.5899
+vegan meal prep tips,vegan meal prep tips,465,minilm_hdbscan,2,False,0.8868
+WHAT IS THE BEST VEHICLE INSURANCE POLICY,what is the best vehicle insurance policy,277,minilm_hdbscan,4,False,0.892
+buy budget notebook computer online,buy budget notebook computer online,466,minilm_hdbscan,17,False,0.6748
+customer database software review,customer database software review,132,minilm_hdbscan,12,False,0.7468
+what is the best crm for small agency,what is the best crm for small agency,467,minilm_hdbscan,25,False,0.7601
+crane,crane,468,minilm_hdbscan,-1,True,
+what is the best customer database software,what is the best customer database software,469,minilm_hdbscan,12,False,1.0
+top vegan breakfast beginners,top vegan breakfast beginners,470,minilm_hdbscan,2,False,0.7378
+top auto insurance quotes new cars,top auto insurance quotes new cars,471,minilm_hdbscan,4,False,0.6599
+credit card for students,credit card for students,472,minilm_hdbscan,18,False,0.8929
+cheap ultrabook,cheap ultrabook,473,minilm_hdbscan,17,False,0.7113
+technical seo checklist for startups,technical seo checklist for startups,148,minilm_hdbscan,15,False,0.6024
+cheap positive reinforcement dog training,cheap positive reinforcement dog training,474,minilm_hdbscan,22,False,0.8618
+top resistance band exercises weight loss,top resistance band exercises weight loss,475,minilm_hdbscan,20,False,0.9256
+orange,orange,476,minilm_hdbscan,-1,True,
+best technical seo checklist for 2026,best technical seo checklist for 2026,477,minilm_hdbscan,15,False,0.578
+top bodyweight exercises weight loss,top bodyweight exercises weight loss,478,minilm_hdbscan,20,False,0.6138
+top lightweight laptop under 50000 rupees,top lightweight laptop under 50000 rupees,479,minilm_hdbscan,17,False,0.6512
+BALI VILLAS FOR FIRST TIMERS,bali villas for first timers,19,minilm_hdbscan,11,False,0.6412
+college student laptop,college student laptop,480,minilm_hdbscan,17,False,0.7182
+tofu recipes review,tofu recipes review,413,minilm_hdbscan,1,False,0.8999
+what is the best on page seo,what is the best on page seo,481,minilm_hdbscan,15,False,0.5052
+best free crm for email marketing,best free crm for email marketing,482,minilm_hdbscan,-1,True,
+cloud crm tips,cloud crm tips,483,minilm_hdbscan,19,False,1.0
+buy content marketing strategy online,buy content marketing strategy online,484,minilm_hdbscan,16,False,0.7529
+top plant based meals gluten free,top plant based meals gluten free,485,minilm_hdbscan,2,False,0.4247
+business credit card tips,business credit card tips,486,minilm_hdbscan,18,False,0.4716
+how to set up customer database software,how to set up customer database software,487,minilm_hdbscan,12,False,0.7232
+free crm for freelancers,free crm for freelancers,488,minilm_hdbscan,25,False,0.6791
+dog obedience classes tips,dog obedience classes tips,172,minilm_hdbscan,10,False,0.8861
+  how  to migrate to crm for small agency ,how to migrate to crm for small agency,489,minilm_hdbscan,25,False,0.6355
+on page seo review,on page seo review,490,minilm_hdbscan,15,False,0.5179
+credit card rewards tips,credit card rewards tips,491,minilm_hdbscan,18,False,0.4991
+cheap laptop,cheap laptop,492,minilm_hdbscan,17,False,1.0
+top running shoes wide feet,top running shoes wide feet,493,minilm_hdbscan,6,False,0.6796
+how to migrate to crm for small agency,how to migrate to crm for small agency,489,minilm_hdbscan,25,False,0.6355
+best bodyweight exercises for beginners,best bodyweight exercises for beginners,494,minilm_hdbscan,-1,True,
+top vegan meal prep beginners,top vegan meal prep beginners,495,minilm_hdbscan,2,False,0.8755
+best customer database software for email marketing,best customer database software for email marketing,202,minilm_hdbscan,12,False,0.8582
+what is the best stop dog barking,what is the best stop dog barking,496,minilm_hdbscan,8,False,0.7614
+  cheap  ultrabook ,cheap ultrabook,473,minilm_hdbscan,17,False,0.7113
+gaming laptop for office work,gaming laptop for office work,497,minilm_hdbscan,17,False,0.6017
+online shopping credit card rewards,online shopping credit card rewards,498,minilm_hdbscan,18,False,0.5278
+top comprehensive car insurance low mileage,top comprehensive car insurance low mileage,499,minilm_hdbscan,4,False,0.7133
+top lead tracking crm email marketing,top lead tracking crm email marketing,500,minilm_hdbscan,-1,True,
+how to warm up for yoga at home,how to warm up for yoga at home,501,minilm_hdbscan,-1,True,
+ubud hotels tips,ubud hotels tips,502,minilm_hdbscan,9,False,0.7917
+best jogging sneakers for wide feet,best jogging sneakers for wide feet,435,minilm_hdbscan,6,False,0.752
+what is the best travel credit card,what is the best travel credit card,503,minilm_hdbscan,18,False,0.7199
+buy running shoes online,buy running shoes online,504,minilm_hdbscan,6,False,0.6958
+buy bali itinerary online,buy bali itinerary online,505,minilm_hdbscan,11,False,0.6944
+travel credit card tips,travel credit card tips,506,minilm_hdbscan,18,False,0.4723
+cheap laptop with long battery life,cheap laptop with long battery life,507,minilm_hdbscan,17,False,0.7645
+how to size running shoes,how to size running shoes,508,minilm_hdbscan,6,False,0.6274
+keyword research for small business,keyword research for small business,509,minilm_hdbscan,13,False,0.6823
+best trail running shoes for wide feet,best trail running shoes for wide feet,510,minilm_hdbscan,6,False,0.7554
+vegan dessert for weeknight,vegan dessert for weeknight,511,minilm_hdbscan,2,False,0.5978
+laptop with long battery life for office work,laptop with long battery life for office work,512,minilm_hdbscan,17,False,0.5549
+what is the best travel credit card,what is the best travel credit card,503,minilm_hdbscan,18,False,0.7199
+how to cancel liability insurance for cars,how to cancel liability insurance for cars,513,minilm_hdbscan,4,False,0.5721
+airline miles low interest credit card,airline miles low interest credit card,514,minilm_hdbscan,18,False,0.4481
+TOP STOP DOG BARKING PUPPIES,top stop dog barking puppies,248,minilm_hdbscan,8,False,1.0
+house training a puppy for beginners,house training a puppy for beginners,515,minilm_hdbscan,21,False,0.7183
+how to upgrade budget notebook computer,how to upgrade budget notebook computer,516,minilm_hdbscan,17,False,0.6087
+how to start home workout,how to start home workout,517,minilm_hdbscan,28,False,0.4958
+cheap home gym setup,cheap home gym setup,518,minilm_hdbscan,27,False,0.7535
+low mileage car insurance renewal,low mileage car insurance renewal,519,minilm_hdbscan,4,False,0.5606
+things to do in bali review,things to do in bali review,520,minilm_hdbscan,11,False,0.8028
+buy minimalist running shoes online,buy minimalist running shoes online,521,minilm_hdbscan,6,False,0.6144
+crate training tips,crate training tips,358,minilm_hdbscan,14,False,0.9153
+  top  seo audit blogs ,top seo audit blogs,522,minilm_hdbscan,15,False,0.81
+crm tool for freelancers,crm tool for freelancers,454,minilm_hdbscan,25,False,0.8442
+yoga at home review,yoga at home review,523,minilm_hdbscan,23,False,0.7987
+resistance band exercises for busy people,resistance band exercises for busy people,524,minilm_hdbscan,20,False,0.8044
+best no equipment workout for 30 minutes,best no equipment workout for 30 minutes,525,minilm_hdbscan,-1,True,
+house training a puppy review,house training a puppy review,526,minilm_hdbscan,21,False,0.6828
+cheap cloud crm,cheap cloud crm,527,minilm_hdbscan,19,False,0.8415
+cheap on page seo,cheap on page seo,528,minilm_hdbscan,15,False,0.3998
+  top  plant based meals beginners ,top plant based meals beginners,457,minilm_hdbscan,3,False,0.9274
+cheap credit card rewards,cheap credit card rewards,529,minilm_hdbscan,18,False,0.5817
+business laptop for streaming,business laptop for streaming,530,minilm_hdbscan,17,False,0.566
+  how  to set up customer database software ,how to set up customer database software,487,minilm_hdbscan,12,False,0.7232
+what is the best trail running shoes,what is the best trail running shoes,389,minilm_hdbscan,6,False,0.8906
+best student credit card for students,best student credit card for students,531,minilm_hdbscan,18,False,0.9816
+top backlink building 2026,top backlink building 2026,127,minilm_hdbscan,0,False,0.7447
+top bali itinerary december,top bali itinerary december,532,minilm_hdbscan,11,False,0.6297
+BEST CARBON PLATE SHOES FOR LONG DISTANCE,best carbon plate shoes for long distance,300,minilm_hdbscan,6,False,0.5897
+crm software tips,crm software tips,192,minilm_hdbscan,25,False,0.7157
+what is the best laptop,what is the best laptop,533,minilm_hdbscan,17,False,0.7227
+top yoga at home back pain,top yoga at home back pain,534,minilm_hdbscan,27,False,0.6989
+seo tools for agencies,seo tools for agencies,535,minilm_hdbscan,15,False,0.5585
+programming ultrabook,programming ultrabook,536,minilm_hdbscan,17,False,0.332
+weight loss hiit routine,weight loss hiit routine,537,minilm_hdbscan,7,False,0.7628
+business laptop tips,business laptop tips,538,minilm_hdbscan,17,False,0.5835
+technical seo checklist for free,technical seo checklist for free,539,minilm_hdbscan,15,False,0.6374
+TOP SEO AUDIT BLOGS,top seo audit blogs,522,minilm_hdbscan,15,False,0.81
+running shoes review,running shoes review,540,minilm_hdbscan,6,False,0.7591
+car insurance renewal tips,car insurance renewal tips,541,minilm_hdbscan,4,False,0.5358
+vegan dessert for quick,vegan dessert for quick,542,minilm_hdbscan,2,False,0.6602
+2026 backlink building,2026 backlink building,543,minilm_hdbscan,0,False,0.7497
+monsoon season bali itinerary,monsoon season bali itinerary,544,minilm_hdbscan,11,False,0.6832
+labradors leash training,labradors leash training,545,minilm_hdbscan,-1,True,
+trail running shoes for plantar fasciitis,trail running shoes for plantar fasciitis,264,minilm_hdbscan,6,False,0.6131
+buy travel credit card online,buy travel credit card online,546,minilm_hdbscan,18,False,0.5072
+seo audit review,seo audit review,418,minilm_hdbscan,15,False,0.7958
+top stability running shoes women,top stability running shoes women,547,minilm_hdbscan,6,False,0.6757
+best stability running shoes for flat feet,best stability running shoes for flat feet,548,minilm_hdbscan,6,False,0.7129
+buy credit card rewards online,buy credit card rewards online,549,minilm_hdbscan,18,False,0.5251
+buy lightweight laptop online,buy lightweight laptop online,550,minilm_hdbscan,17,False,0.716
+free crm for email marketing,free crm for email marketing,253,minilm_hdbscan,-1,True,
+TOP AUTO INSURANCE QUOTES NEW CARS,top auto insurance quotes new cars,471,minilm_hdbscan,4,False,0.6599
+top crm tool pipeline management,top crm tool pipeline management,551,minilm_hdbscan,26,False,0.8167
+top gaming laptop coding,top gaming laptop coding,552,minilm_hdbscan,17,False,0.4525
+vegan protein snacks review,vegan protein snacks review,426,minilm_hdbscan,2,False,0.5902
+surfing ubud hotels,surfing ubud hotels,553,minilm_hdbscan,9,False,0.6802
+cheap running shoes,cheap running shoes,317,minilm_hdbscan,6,False,0.8182
+FLAT FEET TRAIL RUNNING SHOES,flat feet trail running shoes,263,minilm_hdbscan,6,False,0.675
+best credit card tips,best credit card tips,554,minilm_hdbscan,18,False,0.6506
+top cashback credit card students,top cashback credit card students,555,minilm_hdbscan,18,False,0.6859
+how to explore bali villas,how to explore bali villas,556,minilm_hdbscan,11,False,0.7499
+buy travel credit card online,buy travel credit card online,546,minilm_hdbscan,18,False,0.5072
+crate training review,crate training review,557,minilm_hdbscan,14,False,0.8623
+buy technical seo checklist online,buy technical seo checklist online,309,minilm_hdbscan,15,False,0.5446
+crm software review,crm software review,558,minilm_hdbscan,25,False,0.6753
+  vegan  recipes review ,vegan recipes review,320,minilm_hdbscan,2,False,0.6836
+ultrabook tips,ultrabook tips,559,minilm_hdbscan,17,False,0.3528
+buy crm tool online,buy crm tool online,560,minilm_hdbscan,25,False,0.7935
+how to pay off low interest credit card,how to pay off low interest credit card,561,minilm_hdbscan,18,False,0.4646
+what is the best lightweight laptop,what is the best lightweight laptop,562,minilm_hdbscan,17,False,0.6741
+top seo audit blogs,top seo audit blogs,522,minilm_hdbscan,15,False,0.81
+bali travel guide tips,bali travel guide tips,563,minilm_hdbscan,11,False,1.0
+minimalist running shoes review,minimalist running shoes review,564,minilm_hdbscan,6,False,0.6712
+cheap vegan breakfast,cheap vegan breakfast,565,minilm_hdbscan,2,False,0.6992
+what is the best budget notebook computer,what is the best budget notebook computer,566,minilm_hdbscan,17,False,0.7301
+how to season tofu recipes,how to season tofu recipes,567,minilm_hdbscan,1,False,0.8232
+top bali honeymoon packages budget,top bali honeymoon packages budget,289,minilm_hdbscan,11,False,0.5951
+best car insurance renewal for seniors,best car insurance renewal for seniors,568,minilm_hdbscan,4,False,0.7302
+top lightweight laptop office work,top lightweight laptop office work,569,minilm_hdbscan,17,False,0.5813
+cheap student credit card,cheap student credit card,570,minilm_hdbscan,18,False,0.8372
+how to compare credit card rewards,how to compare credit card rewards,571,minilm_hdbscan,18,False,0.4693
+buy bali villas online,buy bali villas online,572,minilm_hdbscan,11,False,0.5645
+best credit card for no annual fee,best credit card for no annual fee,573,minilm_hdbscan,18,False,0.7278
+what is the best vegan recipes,what is the best vegan recipes,574,minilm_hdbscan,2,False,0.8035
+carbon plate shoes for beginners,carbon plate shoes for beginners,575,minilm_hdbscan,6,False,0.4869
+top vegan dessert weeknight,top vegan dessert weeknight,576,minilm_hdbscan,2,False,0.6369
+carbon plate shoes for flat feet,carbon plate shoes for flat feet,577,minilm_hdbscan,6,False,0.4107
+cheap vegan protein snacks,cheap vegan protein snacks,578,minilm_hdbscan,2,False,0.5753
+buy car insurance online,buy car insurance online,579,minilm_hdbscan,4,False,0.6577
+no equipment workout review,no equipment workout review,580,minilm_hdbscan,28,False,0.7184
+agencies customer database software,agencies customer database software,581,minilm_hdbscan,12,False,0.7487
+how to cohose customer database software,how to cohose customer database software,582,minilm_hdbscan,12,False,0.6957
+resistance band exercises reveiw,resistance band exercises reveiw,583,minilm_hdbscan,20,False,0.8583
+cheap puppy training tips,cheap puppy training tips,584,minilm_hdbscan,21,False,0.7137
+buy vegan meal prep online,buy vegan meal prep online,585,minilm_hdbscan,2,False,0.8174
+what is the best local seo,what is the best local seo,586,minilm_hdbscan,15,False,0.4567
+free crm review,free crm review,587,minilm_hdbscan,25,False,0.6027
+laptop review,laptop review,588,minilm_hdbscan,17,False,0.5955
+best crm for small agency for agencies,best crm for small agency for agencies,589,minilm_hdbscan,25,False,0.7067
+gaming laptop tips,gaming laptop tips,590,minilm_hdbscan,17,False,0.4805
+what is the best seo tools,what is the best seo tools,591,minilm_hdbscan,15,False,0.5466
+no equipment workout tips,no equipment workout tips,46,minilm_hdbscan,28,False,0.7702
+buy free crm online,buy free crm online,592,minilm_hdbscan,25,False,0.6556
+vegan dessert tips,vegan dessert tips,55,minilm_hdbscan,2,False,0.6715
+apple,apple,593,minilm_hdbscan,-1,True,
+buy business credit card online,buy business credit card online,360,minilm_hdbscan,18,False,0.4746
+  how  to track resistance band exercises ,how to track resistance band exercises,287,minilm_hdbscan,20,False,0.7475
+best local seo for blogs,best local seo for blogs,594,minilm_hdbscan,15,False,0.3935
+yoga at home for beginners,yoga at home for beginners,595,minilm_hdbscan,23,False,0.9082
+top cashback credit card students,top cashback credit card students,555,minilm_hdbscan,18,False,0.6859
+vegan meal prep review,vegan meal prep review,596,minilm_hdbscan,2,False,0.8623

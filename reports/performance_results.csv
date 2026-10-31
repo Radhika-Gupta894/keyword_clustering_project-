@@ -1,0 +1,4 @@
+tier_target_n,actual_unique_keywords,status,skip_reason,runtime_seconds,peak_memory_mb,target_max_seconds,target_max_mem_mb,passed_targets,os,python_version,cpu,total_ram_gb,avail_ram_gb
+100,100,COMPLETED,,13.681,553.8,120.0,2048.0,PASS,Windows 11 (10.0.26300),3.12.10,"Intel64 Family 6 Model 154 Stepping 3, GenuineIntel (12 logical cores)",15.7,2.9
+1000,597,SKIPPED,"Real file has 597 unique keywords, fewer than requested tier N=1000. Skipping tier (no synthetic padding).",NA,NA,600.0,4096.0,NA,Windows 11 (10.0.26300),3.12.10,"Intel64 Family 6 Model 154 Stepping 3, GenuineIntel (12 logical cores)",15.7,2.9
+5000,597,SKIPPED,"Real file has 597 unique keywords, fewer than requested tier N=5000. Skipping tier (no synthetic padding).",NA,NA,1800.0,6144.0,NA,Windows 11 (10.0.26300),3.12.10,"Intel64 Family 6 Model 154 Stepping 3, GenuineIntel (12 logical cores)",15.7,2.9

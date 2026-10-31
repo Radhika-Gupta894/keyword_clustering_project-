@@ -1,0 +1,90 @@
+{
+  "timestamp_utc": "2026-10-31T14:50:46+00:00",
+  "dataset_filename": "sample_keywords.csv",
+  "dataset_sha256": "77d28db91412ba944a408b138fb93973ee17dc7f6242e12b4d2de2264758464d",
+  "python": "3.12.10",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "packages": {
+    "pandas": "3.0.2",
+    "numpy": "2.4.4",
+    "scikit-learn": "1.8.0",
+    "sentence-transformers": "6.2.0",
+    "torch": "2.15.0",
+    "transformers": "5.21.0"
+  },
+  "methods_run": "both",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_revision": "c9745ed1d9f207416be6d2e6f8de32d1f16199bf",
+  "inference": "local, CPU (sentence-transformers); no external API",
+  "config": {
+    "PROJECT_ROOT": "C:\\Users\\shali\\Downloads\\keyword-clustering\\keyword-clustering",
+    "DATA_DIR": "C:\\Users\\shali\\Downloads\\keyword-clustering\\keyword-clustering\\data",
+    "OUTPUT_DIR": "C:\\Users\\shali\\Downloads\\keyword-clustering\\keyword-clustering\\data\\output",
+    "REPORTS_DIR": "C:\\Users\\shali\\Downloads\\keyword-clustering\\keyword-clustering\\reports",
+    "DEFAULT_INPUT": "C:\\Users\\shali\\Downloads\\keyword-clustering\\keyword-clustering\\data\\synthetic\\sample_keywords.csv",
+    "RANDOM_STATE": 42,
+    "KEYWORD_COLUMN": "keyword",
+    "MAX_KEYWORD_CHARS": 200,
+    "TFIDF_PARAMS": {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "min_df": 1,
+      "sublinear_tf": true,
+      "token_pattern": "(?u)\\b\\w+\\b"
+    },
+    "BASELINE_THRESHOLD_GRID": [
+      0.2,
+      0.3,
+      0.4,
+      0.5
+    ],
+    "BASELINE_THRESHOLD": 0.4,
+    "EMBEDDING_MODEL": "sentence-transformers/all-MiniLM-L6-v2",
+    "EMBEDDING_REVISION": "c9745ed1d9f207416be6d2e6f8de32d1f16199bf",
+    "EMBEDDING_BATCH_SIZE": 64,
+    "SEMANTIC_ALGORITHM": "hdbscan",
+    "HDBSCAN_GRID": {
+      "min_cluster_size": [
+        5,
+        10,
+        20
+      ],
+      "min_samples": [
+        1,
+        5,
+        10
+      ]
+    },
+    "HDBSCAN_PARAMS": {
+      "min_cluster_size": 5,
+      "min_samples": 1
+    },
+    "SEMANTIC_AGG_GRID": [
+      0.2,
+      0.3,
+      0.4,
+      0.5
+    ],
+    "SEMANTIC_AGG_THRESHOLD": 0.4,
+    "DEV_SUBSET_SIZE": 1000,
+    "EVAL_SAMPLE_SIZE": 300,
+    "REVIEW_N_CLUSTERS": 20,
+    "REVIEW_MAX_MEMBERS": 10,
+    "REJECT_NOISE_RATE": 0.5,
+    "REJECT_DOMINANT_SHARE": 0.5,
+    "ELIGIBLE_MEAN_COHERENCE": 3.5,
+    "ELIGIBLE_PCT_4_OR_5": 0.6,
+    "TIE_MARGIN": 0.25,
+    "BASELINE_METHOD": "tfidf_agglomerative",
+    "SEMANTIC_METHOD": "minilm_hdbscan"
+  },
+  "output_files": [
+    "keyword_assignments.csv",
+    "cluster_summary.csv",
+    "data_quality_report.csv",
+    "evaluation_summary.csv",
+    "run_metadata.json"
+  ]
+}

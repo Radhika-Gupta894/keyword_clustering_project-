@@ -1,0 +1,9 @@
+Loaded 677 rows -> 677 valid -> 597 unique normalized keywords
+[tfidf_agglomerative] distance_threshold=0.4: 421 clusters, noise 0.0%, silhouette 0.149, 0.077s
+
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]
+Loading weights: 100%|##########| 103/103 [00:00<00:00, 2576.92it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[minilm_hdbscan] min_cluster_size=5;min_samples=1: 29 clusters, noise 5.7%, silhouette 0.41, 12.951s
+Method selection: none yet - No human ratings yet - fill reports/human_review_sheet.csv and re-run.
+Outputs written to data/output

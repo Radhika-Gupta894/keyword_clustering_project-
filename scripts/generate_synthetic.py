@@ -61,7 +61,8 @@ def main():
     for k, t in rng.sample(base, 30): rows.append((k, t))                             # exact duplicates
     rows += [(k, "ambiguous") for k in AMBIGUOUS]
     rng.shuffle(rows)
-    out = Path(__file__).resolve().parents[1] / "data"
+    out = Path(__file__).resolve().parents[1] / "data" / "synthetic"
+    out.mkdir(parents=True, exist_ok=True)
     pd.DataFrame({"keyword": [r[0] for r in rows]}).to_csv(out / "sample_keywords.csv", index=False)
     pd.DataFrame(rows, columns=["keyword", "topic"]).to_csv(out / "synthetic_gold_topics.csv", index=False)
     smoke = []

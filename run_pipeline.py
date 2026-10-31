@@ -1,8 +1,8 @@
 """Command-line entry point.
 
-    python run_pipeline.py tune --input data/sample_keywords.csv      # parameter search on dev subset
-    python run_pipeline.py run  --input data/sample_keywords.csv      # frozen config -> all outputs
-    python run_pipeline.py run  --input data/smoke_keywords.csv --methods baseline
+    python run_pipeline.py tune --input data/synthetic/sample_keywords.csv      # parameter search on dev subset
+    python run_pipeline.py run  --input data/synthetic/sample_keywords.csv      # frozen config -> all outputs
+    python run_pipeline.py run  --input data/synthetic/smoke_keywords.csv --methods baseline
 """
 import argparse
 import sys

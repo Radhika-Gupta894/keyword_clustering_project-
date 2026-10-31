@@ -5,7 +5,8 @@ PROJECT_ROOT = Path(__file__).resolve().parent
 DATA_DIR = PROJECT_ROOT / "data"
 OUTPUT_DIR = DATA_DIR / "output"
 REPORTS_DIR = PROJECT_ROOT / "reports"
-DEFAULT_INPUT = DATA_DIR / "sample_keywords.csv"
+# Default input: synthetic sample dataset for testing (TODO: update to data/input/real_keywords.csv once real dataset is approved)
+DEFAULT_INPUT = DATA_DIR / "synthetic" / "sample_keywords.csv"
 
 RANDOM_STATE = 42
 KEYWORD_COLUMN = "keyword"

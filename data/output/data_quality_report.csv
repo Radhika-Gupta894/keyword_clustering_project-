@@ -1,0 +1,11 @@
+metric,value,notes
+input_rows,677.0,Data rows in the CSV (header excluded)
+blank_rows,0.0,Empty / whitespace-only; excluded from clustering and assignments
+invalid_rows,0.0,No letters/digits or > 200 chars; excluded
+valid_rows,677.0,Rows carried through the pipeline
+exact_duplicate_rows,80.0,Valid rows that repeat an earlier normalized keyword
+unique_normalized_keywords,597.0,Clustering is fitted on these only (A5)
+rows_changed_by_normalization,50.0,Case/whitespace differs from the original
+words_per_keyword_mean,4.8,Over unique keywords
+words_per_keyword_median,5.0,Over unique keywords
+words_per_keyword_max,9.0,Over unique keywords
