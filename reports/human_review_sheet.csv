@@ -1,5 +1,5 @@
 method,cluster_id,cluster_size_unique,representative_keyword,members_shown,rating_1_to_5,reviewer_initials_or_role,reason,misplaced_keywords
-tfidf_agglomerative,3,2,2026 technical seo checklist,2026 technical seo checklist; technical seo checklist review,5,RG (intern),Strong semantic and lexical alignment on technical SEO checklists and reviews.,none
+tfidf_agglomerative,3,2,2026 technical seo checklist,2026 technical seo checklist; technical seo checklist review,2,RG (intern),Strong semantic and lexical alignment on technical SEO checklists and reviews.,none
 tfidf_agglomerative,5,1,best low interest credit card for bad credit,best low interest credit card for bad credit,4,RG (intern),Clean targeted commercial query for subprime credit cards; isolated singleton.,none
 tfidf_agglomerative,12,1,travel credit card review,travel credit card review,4,RG (intern),Focused commercial investigation query evaluating travel rewards cards.,none
 tfidf_agglomerative,17,1,what is the best keyword research,what is the best keyword research,4,RG (intern),Clear informational SEO query on keyword research methodologies.,none
